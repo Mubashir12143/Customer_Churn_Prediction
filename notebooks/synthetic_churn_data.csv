@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,InternetService,MonthlyCharges,TotalCharges,Churn
+2824-AAAAA,Male,0,No,No,50,Yes,No,109.84,5492.0,No
+5506-HHHHH,Female,0,No,Yes,46,Yes,DSL,78.27,3600.42,No
+4657-EEEEE,Male,0,No,Yes,3,Yes,No,32.41,97.23,No
+2679-VVVVV,Male,0,No,Yes,6,Yes,DSL,32.14,192.84,No
+9935-CCCCC,Male,0,Yes,No,34,Yes,Fiber optic,92.11,3131.74,Yes
+7912-BBBBB,Female,0,Yes,No,47,Yes,DSL,38.38,1803.86,No
+1488-CCCCC,Male,1,No,No,71,Yes,DSL,52.84,3751.64,No
+4582-HHHHH,Male,0,Yes,No,44,Yes,DSL,68.72,3023.68,Yes
+9279-TTTTT,Male,1,No,No,71,Yes,No,22.48,1596.08,No
+1434-RRRRR,Female,0,Yes,No,18,Yes,No,44.88,807.84,No
+4257-WWWWW,Male,0,No,No,62,Yes,No,60.79,3768.98,No
+9928-NNNNN,Male,0,No,Yes,37,Yes,Fiber optic,47.96,1774.52,Yes
+4611-OOOOO,Male,1,Yes,No,66,Yes,Fiber optic,33.64,2220.24,Yes
+5557-ZZZZZ,Male,1,Yes,Yes,58,Yes,DSL,92.8,5382.4,No
+1106-YYYYY,Female,0,No,Yes,68,Yes,Fiber optic,101.31,6889.08,No
+3615-WWWWW,Male,0,No,No,12,Yes,DSL,45.75,549.0,No
+7924-KKKKK,Female,0,Yes,No,46,Yes,DSL,97.44,4482.24,No
+5552-EEEEE,Female,0,Yes,Yes,60,Yes,DSL,58.56,3513.6,No
+4527-YYYYY,Female,1,No,Yes,30,Yes,Fiber optic,70.67,2120.1,No
+6514-DDDDD,Male,0,Yes,No,21,No,No,105.6,2217.6,No
+2519-MMMMM,Female,0,No,No,42,Yes,Fiber optic,95.0,3990.0,No
+2584-LLLLL,Male,0,No,Yes,66,No,DSL,100.51,6633.66,No
+6635-TTTTT,Female,1,No,No,53,No,DSL,33.68,1785.04,Yes
+5333-ZZZZZ,Female,1,No,No,9,Yes,Fiber optic,26.97,242.73,No
+1711-XXXXX,Female,0,Yes,No,41,Yes,DSL,109.34,4482.94,No
+8527-RRRRR,Female,0,Yes,Yes,63,Yes,DSL,58.78,3703.14,No
+3045-MMMMM,Female,0,Yes,Yes,20,Yes,Fiber optic,48.79,975.8,No
+2291-RRRRR,Female,0,Yes,Yes,65,Yes,Fiber optic,92.47,6010.55,No
+5803-UUUUU,Female,0,Yes,No,40,Yes,Fiber optic,103.64,4145.6,No
+6925-SSSSS,Female,1,Yes,No,23,Yes,DSL,106.25,2443.75,No
+4150-WWWWW,Male,0,Yes,Yes,34,No,DSL,51.6,1754.4,No
+2139-BBBBB,Male,1,No,Yes,55,Yes,No,105.22,5787.1,No
+4733-YYYYY,Female,1,Yes,Yes,29,Yes,No,24.09,698.61,No
+5741-CCCCC,Female,0,Yes,No,56,Yes,Fiber optic,24.97,1398.32,No
+4814-DDDDD,Female,0,No,Yes,46,Yes,No,82.35,3788.1,Yes
+7227-IIIII,Male,1,Yes,Yes,34,Yes,DSL,26.31,894.54,No
+8428-UUUUU,Female,1,Yes,No,18,Yes,No,52.46,944.28,Yes
+6977-FFFFF,Male,0,No,No,7,Yes,DSL,87.28,610.96,No
+7065-LLLLL,Male,0,Yes,No,25,Yes,Fiber optic,53.73,1343.25,Yes
+4432-VVVVV,Male,0,Yes,Yes,70,No,Fiber optic,37.96,2657.2,No
+5374-WWWWW,Male,1,Yes,No,29,Yes,DSL,48.14,1396.06,No
+2169-TTTTT,Male,0,No,No,6,Yes,No,65.76,394.56,No
+3803-RRRRR,Female,0,Yes,Yes,66,Yes,Fiber optic,67.54,4457.64,Yes
+5010-FFFFF,Female,0,Yes,No,64,Yes,Fiber optic,98.3,6291.2,No
+8573-MMMMM,Female,0,No,Yes,35,Yes,No,95.02,3325.7,No
+5422-UUUUU,Female,0,Yes,Yes,24,No,No,65.68,1576.32,No
+4598-VVVVV,Female,0,No,No,36,Yes,DSL,104.57,3764.52,No
+6313-YYYYY,Male,0,No,No,0,Yes,No,31.42,0.0,Yes
+1916-HHHHH,Female,0,Yes,No,14,Yes,No,45.54,637.56,No
+1525-ZZZZZ,Female,0,No,No,36,Yes,No,102.8,3700.8,No
+6168-MMMMM,Male,0,No,No,12,Yes,DSL,57.8,693.6,No
+5386-CCCCC,Female,1,Yes,No,7,Yes,DSL,118.12,826.84,Yes
+4456-SSSSS,Male,0,No,Yes,4,Yes,Fiber optic,66.63,266.52,No
+6155-GGGGG,Female,0,No,Yes,59,Yes,DSL,99.19,5852.21,Yes
+9179-MMMMM,Male,1,Yes,No,0,Yes,Fiber optic,60.23,0.0,No
+8517-EEEEE,Female,0,Yes,Yes,35,Yes,No,62.5,2187.5,No
+5339-EEEEE,Female,0,Yes,No,34,Yes,Fiber optic,58.29,1981.86,No
+5040-XXXXX,Male,0,No,Yes,65,Yes,Fiber optic,91.91,5974.15,No
+9830-IIIII,Male,0,Yes,Yes,62,Yes,No,74.75,4634.5,No
+8019-SSSSS,Male,0,No,Yes,22,Yes,Fiber optic,114.38,2516.36,No
+7543-LLLLL,Male,0,No,No,8,Yes,DSL,45.09,360.72,No
+4593-EEEEE,Male,0,No,Yes,33,Yes,DSL,30.06,991.98,No
+9348-PPPPP,Male,0,No,No,45,Yes,DSL,59.33,2669.85,No
+2489-YYYYY,Male,0,No,Yes,3,Yes,DSL,81.67,245.01,Yes
+1771-DDDDD,Male,0,No,Yes,29,Yes,Fiber optic,106.08,3076.32,No
+3504-UUUUU,Female,0,No,Yes,71,Yes,Fiber optic,54.62,3878.02,No
+3621-ZZZZZ,Female,0,Yes,Yes,2,No,No,85.38,170.76,Yes
+7916-TTTTT,Male,0,Yes,Yes,13,Yes,Fiber optic,55.02,715.26,No
+2040-MMMMM,Female,1,No,No,59,No,Fiber optic,81.72,4821.48,Yes
+7252-TTTTT,Female,0,No,No,44,Yes,Fiber optic,108.48,4773.12,No
+8668-QQQQQ,Female,0,Yes,Yes,33,Yes,No,43.14,1423.62,Yes
+5119-RRRRR,Female,0,No,Yes,44,Yes,DSL,60.42,2658.48,Yes
+1188-VVVVV,Male,0,Yes,Yes,60,Yes,Fiber optic,119.33,7159.8,Yes
+2876-VVVVV,Female,0,Yes,Yes,15,No,No,106.86,1602.9,No
+9797-YYYYY,Male,1,Yes,No,65,Yes,No,76.46,4969.9,No
+5371-YYYYY,Female,1,No,Yes,39,Yes,No,71.66,2794.74,No
+6573-DDDDD,Female,0,No,No,16,Yes,DSL,48.46,775.36,Yes
+5808-NNNNN,Female,1,Yes,Yes,33,No,Fiber optic,71.72,2366.76,Yes
+3591-OOOOO,Male,0,Yes,No,15,Yes,No,104.82,1572.3,No
+1053-XXXXX,Female,0,Yes,Yes,59,Yes,DSL,88.52,5222.68,No
+5315-QQQQQ,Male,0,Yes,Yes,65,Yes,No,49.0,3185.0,No
+3927-QQQQQ,Female,1,Yes,No,65,Yes,No,40.15,2609.75,Yes
+2743-UUUUU,Male,0,No,Yes,12,Yes,No,46.52,558.24,No
+5889-UUUUU,Female,0,Yes,Yes,55,Yes,No,36.98,2033.9,No
+9317-TTTTT,Male,0,No,Yes,30,Yes,No,29.56,886.8,Yes
+4258-EEEEE,Male,0,Yes,No,33,Yes,DSL,61.91,2043.03,Yes
+7126-YYYYY,Female,0,No,Yes,38,Yes,Fiber optic,31.33,1190.54,No
+3646-RRRRR,Male,0,No,Yes,66,No,Fiber optic,37.19,2454.54,No
+9689-AAAAA,Female,0,No,No,7,Yes,Fiber optic,74.73,523.11,No
+6310-PPPPP,Female,0,No,No,54,Yes,Fiber optic,36.46,1968.84,No
+1319-DDDDD,Female,0,No,No,26,Yes,DSL,26.39,686.14,No
+6947-ZZZZZ,Female,0,No,Yes,52,Yes,DSL,51.74,2690.48,Yes
+6038-HHHHH,Female,0,Yes,Yes,38,Yes,DSL,42.03,1597.14,No
+1949-HHHHH,Female,0,No,Yes,64,Yes,No,71.53,4577.92,No
+2290-CCCCC,Female,1,Yes,No,16,Yes,No,30.24,483.84,Yes
+8962-CCCCC,Female,0,No,Yes,29,No,No,95.18,2760.22,No
+9727-YYYYY,Female,0,No,Yes,52,Yes,Fiber optic,110.62,5752.24,Yes
+3060-EEEEE,Female,0,Yes,No,12,No,No,94.34,1132.08,No
+8787-RRRRR,Female,0,No,No,20,Yes,Fiber optic,73.28,1465.6,No
+3705-IIIII,Male,0,Yes,No,18,Yes,No,106.07,1909.26,No
+9645-TTTTT,Male,0,Yes,No,52,Yes,Fiber optic,89.49,4653.48,No
+7932-GGGGG,Female,0,Yes,No,18,Yes,No,21.06,379.08,Yes
+9835-YYYYY,Female,0,Yes,Yes,56,Yes,No,59.41,3326.96,No
+4295-WWWWW,Female,0,No,No,24,Yes,DSL,105.1,2522.4,No
+6107-MMMMM,Female,0,No,Yes,30,Yes,No,54.59,1637.7,No
+7118-OOOOO,Female,0,Yes,Yes,54,Yes,No,23.52,1270.08,No
+9479-OOOOO,Female,0,No,No,22,Yes,DSL,94.62,2081.64,No
+2982-HHHHH,Female,0,No,No,31,Yes,Fiber optic,100.2,3106.2,Yes
+4681-CCCCC,Female,0,Yes,No,61,Yes,DSL,36.06,2199.66,No
+6539-AAAAA,Male,0,No,Yes,9,No,DSL,73.73,663.57,Yes
+4770-SSSSS,Female,0,Yes,No,71,Yes,Fiber optic,39.2,2783.2,Yes
+4608-AAAAA,Male,0,Yes,No,53,Yes,No,91.92,4871.76,No
+2163-WWWWW,Female,0,No,No,51,Yes,Fiber optic,47.16,2405.16,No
+1964-HHHHH,Female,0,No,No,19,Yes,No,51.62,980.78,Yes
+2104-BBBBB,Male,1,No,No,31,Yes,No,104.5,3239.5,No
+6413-CCCCC,Female,1,Yes,Yes,13,No,Fiber optic,67.63,879.19,Yes
+9423-HHHHH,Male,0,Yes,Yes,49,Yes,DSL,86.98,4262.02,No
+5562-VVVVV,Female,0,No,Yes,27,Yes,Fiber optic,60.24,1626.48,No
+8953-GGGGG,Female,0,No,No,52,Yes,No,49.8,2589.6,No
+9834-EEEEE,Male,0,No,No,23,Yes,Fiber optic,82.55,1898.65,Yes
+8744-HHHHH,Female,0,No,No,21,Yes,Fiber optic,35.49,745.29,No
+8749-ZZZZZ,Male,0,Yes,Yes,29,Yes,No,57.3,1661.7,No
+7669-GGGGG,Female,0,No,No,62,Yes,DSL,40.9,2535.8,No
+2545-DDDDD,Male,0,Yes,No,3,Yes,Fiber optic,89.58,268.74,No
+8062-LLLLL,Male,0,Yes,No,58,Yes,No,114.42,6636.36,No
+7939-NNNNN,Female,0,No,Yes,7,Yes,No,119.55,836.85,Yes
+8651-XXXXX,Female,0,No,No,11,No,Fiber optic,65.03,715.33,No
+1887-VVVVV,Male,0,No,Yes,30,Yes,DSL,45.25,1357.5,No
+2612-BBBBB,Female,0,Yes,No,33,Yes,Fiber optic,64.28,2121.24,Yes
+7596-XXXXX,Female,0,No,Yes,48,Yes,DSL,104.73,5027.04,No
+6559-ZZZZZ,Female,0,No,Yes,56,Yes,DSL,40.6,2273.6,Yes
+2790-HHHHH,Male,1,Yes,Yes,25,Yes,DSL,115.21,2880.25,No
+4139-GGGGG,Male,0,No,No,17,Yes,DSL,54.19,921.23,No
+9786-OOOOO,Male,0,Yes,No,37,Yes,Fiber optic,118.58,4387.46,No
+3296-NNNNN,Male,0,No,Yes,49,Yes,No,103.86,5089.14,No
+4006-IIIII,Male,0,Yes,Yes,7,Yes,No,100.86,706.02,No
+8579-HHHHH,Male,0,No,No,40,Yes,No,51.79,2071.6,No
+2235-OOOOO,Male,0,No,No,5,Yes,No,20.88,104.4,Yes
+2604-BBBBB,Male,0,Yes,Yes,68,Yes,No,58.21,3958.28,No
+9856-AAAAA,Male,0,Yes,No,43,Yes,No,50.18,2157.74,Yes
+2528-YYYYY,Female,0,No,No,63,Yes,Fiber optic,23.74,1495.62,No
+4872-FFFFF,Male,0,Yes,No,28,No,DSL,70.54,1975.12,No
+7658-PPPPP,Female,0,Yes,No,27,Yes,No,60.3,1628.1,No
+8886-GGGGG,Female,0,Yes,Yes,10,Yes,Fiber optic,83.46,834.6,No
+7570-BBBBB,Female,0,Yes,No,64,Yes,No,82.12,5255.68,No
+3697-MMMMM,Male,1,No,No,18,No,No,32.07,577.26,No
+1035-MMMMM,Male,0,No,Yes,8,Yes,DSL,117.7,941.6,Yes
+5345-ZZZZZ,Male,0,Yes,Yes,26,Yes,DSL,38.69,1005.94,No
+8454-JJJJJ,Male,0,Yes,No,33,Yes,DSL,64.53,2129.49,Yes
+7930-WWWWW,Female,0,Yes,No,43,Yes,No,68.81,2958.83,Yes
+8973-EEEEE,Male,0,Yes,No,67,Yes,No,101.31,6787.77,No
+4111-JJJJJ,Male,0,No,No,14,Yes,No,29.92,418.88,Yes
+4566-BBBBB,Male,0,No,Yes,50,Yes,DSL,62.86,3143.0,Yes
+9883-BBBBB,Male,0,Yes,Yes,12,Yes,Fiber optic,82.85,994.2,Yes
+6138-BBBBB,Male,0,Yes,Yes,48,Yes,No,41.52,1992.96,Yes
+1821-SSSSS,Female,0,Yes,No,69,Yes,No,82.75,5709.75,Yes
+8811-QQQQQ,Male,0,No,No,55,Yes,No,112.37,6180.35,No
+9701-FFFFF,Female,0,Yes,No,50,Yes,Fiber optic,119.75,5987.5,Yes
+1931-QQQQQ,Male,0,No,No,36,No,No,23.25,837.0,No
+2312-FFFFF,Female,0,Yes,Yes,16,Yes,Fiber optic,43.56,696.96,Yes
+2122-TTTTT,Male,0,No,Yes,57,Yes,No,51.03,2908.71,No
+2113-VVVVV,Male,1,Yes,No,28,Yes,Fiber optic,59.91,1677.48,Yes
+4853-MMMMM,Female,0,No,Yes,32,Yes,No,44.23,1415.36,No
+2964-SSSSS,Female,0,Yes,No,59,No,DSL,40.35,2380.65,No
+5033-SSSSS,Female,0,Yes,No,54,Yes,DSL,115.46,6234.84,Yes
+1651-TTTTT,Male,0,Yes,Yes,9,Yes,DSL,111.85,1006.65,No
+2343-NNNNN,Female,0,No,No,46,Yes,DSL,24.7,1136.2,No
+9565-KKKKK,Male,0,Yes,No,22,Yes,No,53.88,1185.36,Yes
+5272-GGGGG,Male,0,No,Yes,20,Yes,DSL,60.51,1210.2,No
+6147-HHHHH,Female,0,No,No,12,Yes,Fiber optic,43.9,526.8,No
+5351-MMMMM,Female,0,Yes,No,32,Yes,DSL,82.89,2652.48,No
+3144-VVVVV,Male,1,Yes,Yes,23,Yes,DSL,84.04,1932.92,No
+5915-OOOOO,Male,0,Yes,No,10,Yes,DSL,105.05,1050.5,No
+6180-YYYYY,Female,0,No,Yes,16,Yes,No,94.09,1505.44,No
+2188-AAAAA,Female,0,Yes,No,67,Yes,DSL,74.26,4975.42,No
+8508-TTTTT,Female,1,No,Yes,46,Yes,Fiber optic,85.36,3926.56,No
+2638-CCCCC,Male,0,No,Yes,24,Yes,DSL,47.4,1137.6,Yes
+9808-GGGGG,Male,0,Yes,Yes,20,Yes,DSL,79.31,1586.2,No
+9288-IIIII,Male,1,Yes,No,11,No,DSL,68.92,758.12,Yes
+3170-LLLLL,Male,1,Yes,Yes,36,Yes,Fiber optic,33.33,1199.88,Yes
+2127-HHHHH,Male,0,Yes,Yes,41,Yes,DSL,44.25,1814.25,No
+7054-JJJJJ,Male,0,Yes,Yes,16,Yes,Fiber optic,49.17,786.72,No
+3584-OOOOO,Female,0,Yes,Yes,47,Yes,Fiber optic,112.43,5284.21,Yes
+9900-WWWWW,Male,0,No,Yes,27,Yes,DSL,43.04,1162.08,No
+5956-TTTTT,Male,1,No,No,40,Yes,Fiber optic,48.92,1956.8,No
+9666-AAAAA,Male,0,No,No,46,Yes,No,56.94,2619.24,No
+5905-VVVVV,Female,0,Yes,No,17,No,DSL,86.37,1468.29,No
+2697-EEEEE,Male,0,No,No,70,Yes,DSL,31.82,2227.4,No
+5333-DDDDD,Male,0,No,No,12,Yes,Fiber optic,115.39,1384.68,Yes
+2753-XXXXX,Female,0,No,No,12,Yes,Fiber optic,106.56,1278.72,Yes
+3546-IIIII,Male,0,No,No,30,Yes,DSL,77.72,2331.6,No
+5616-TTTTT,Male,0,No,Yes,1,Yes,No,87.4,87.4,Yes
+4450-WWWWW,Male,0,Yes,No,15,Yes,Fiber optic,21.67,325.05,No
+6617-GGGGG,Male,0,Yes,Yes,8,No,Fiber optic,53.89,431.12,No
+5325-QQQQQ,Male,0,No,Yes,37,Yes,No,99.57,3684.09,No
+9004-IIIII,Female,0,No,No,53,Yes,No,27.75,1470.75,Yes
+1832-CCCCC,Female,0,No,Yes,55,Yes,DSL,48.23,2652.65,No
+7939-IIIII,Female,0,Yes,Yes,44,Yes,No,78.53,3455.32,No
+1722-AAAAA,Male,0,Yes,Yes,33,Yes,DSL,45.64,1506.12,No
+6464-YYYYY,Male,0,No,Yes,8,Yes,No,113.4,907.2,Yes
+3143-UUUUU,Male,0,Yes,No,7,Yes,Fiber optic,33.11,231.77,No
+5291-FFFFF,Female,0,Yes,No,6,Yes,DSL,99.74,598.44,No
+8239-RRRRR,Male,0,No,No,35,Yes,DSL,70.79,2477.65,No
+8007-RRRRR,Male,0,Yes,No,17,Yes,DSL,95.03,1615.51,No
+1158-DDDDD,Female,0,Yes,No,2,Yes,No,51.07,102.14,Yes
+2232-WWWWW,Male,1,No,No,27,Yes,Fiber optic,71.45,1929.15,Yes
+3442-RRRRR,Female,0,Yes,No,69,Yes,DSL,105.68,7291.92,No
+1590-LLLLL,Female,0,Yes,No,43,No,DSL,66.69,2867.67,No
+3426-NNNNN,Female,0,No,No,20,Yes,DSL,55.97,1119.4,No
+3088-BBBBB,Male,0,Yes,No,27,Yes,DSL,73.62,1987.74,Yes
+6050-LLLLL,Male,0,Yes,Yes,53,Yes,Fiber optic,91.74,4862.22,Yes
+1653-LLLLL,Male,0,No,No,53,Yes,No,64.36,3411.08,Yes
+4441-VVVVV,Male,0,No,Yes,64,Yes,Fiber optic,113.89,7288.96,Yes
+5088-VVVVV,Male,0,No,Yes,20,Yes,DSL,49.49,989.8,No
+2684-LLLLL,Male,0,Yes,Yes,12,Yes,Fiber optic,67.55,810.6,No
+7658-TTTTT,Male,1,No,Yes,56,No,DSL,95.69,5358.64,No
+3532-HHHHH,Female,0,Yes,No,48,No,No,88.91,4267.68,No
+3662-ZZZZZ,Male,1,No,Yes,53,Yes,No,106.36,5637.08,Yes
+3900-NNNNN,Female,0,Yes,No,9,Yes,No,119.68,1077.12,No
+1406-FFFFF,Male,0,No,No,52,Yes,DSL,62.69,3259.88,Yes
+6442-ZZZZZ,Male,1,No,Yes,43,Yes,Fiber optic,31.12,1338.16,No
+7745-ZZZZZ,Male,0,No,No,46,Yes,No,23.04,1059.84,No
+5065-IIIII,Female,0,No,Yes,52,Yes,DSL,92.69,4819.88,No
+3608-ZZZZZ,Female,0,Yes,Yes,45,Yes,DSL,107.4,4833.0,No
+2771-MMMMM,Female,0,No,No,12,Yes,Fiber optic,42.07,504.84,No
+1634-PPPPP,Female,1,No,No,36,No,No,35.84,1290.24,No
+4644-GGGGG,Male,0,Yes,Yes,23,Yes,DSL,26.22,603.06,Yes
+8541-LLLLL,Female,0,No,No,1,Yes,Fiber optic,102.27,102.27,No
+6000-ZZZZZ,Male,0,Yes,No,13,Yes,No,51.14,664.82,No
+4728-HHHHH,Male,0,No,No,9,Yes,Fiber optic,60.17,541.53,Yes
+1387-VVVVV,Female,0,No,Yes,34,Yes,Fiber optic,70.28,2389.52,No
+4164-MMMMM,Female,0,No,Yes,24,Yes,DSL,103.95,2494.8,No
+6378-IIIII,Female,0,Yes,No,2,No,DSL,85.08,170.16,No
+2137-YYYYY,Female,0,No,No,16,Yes,DSL,81.51,1304.16,No
+5573-LLLLL,Female,0,No,No,11,Yes,Fiber optic,37.57,413.27,No
+9346-MMMMM,Female,1,No,No,53,Yes,DSL,71.32,3779.96,No
+9785-KKKKK,Female,0,Yes,No,23,Yes,Fiber optic,91.54,2105.42,No
+1452-DDDDD,Female,0,Yes,Yes,28,Yes,Fiber optic,117.33,3285.24,No
+5279-FFFFF,Male,0,No,No,42,No,DSL,40.14,1685.88,No
+5349-BBBBB,Female,0,Yes,Yes,24,Yes,No,20.95,502.8,No
+2776-TTTTT,Female,0,No,No,59,Yes,No,27.53,1624.27,No
+8119-LLLLL,Male,0,No,Yes,64,Yes,No,57.59,3685.76,No
+6139-NNNNN,Female,0,No,No,27,Yes,Fiber optic,102.05,2755.35,No
+9379-DDDDD,Male,0,No,Yes,15,Yes,Fiber optic,20.71,310.65,No
+7311-SSSSS,Male,0,No,No,46,Yes,Fiber optic,65.67,3020.82,No
+4114-IIIII,Female,1,No,Yes,57,Yes,DSL,52.92,3016.44,No
+1727-WWWWW,Male,0,No,Yes,26,Yes,Fiber optic,25.25,656.5,Yes
+8144-AAAAA,Male,0,Yes,Yes,52,Yes,DSL,65.02,3381.04,No
+9518-ZZZZZ,Male,1,Yes,Yes,41,Yes,DSL,45.47,1864.27,No
+9821-VVVVV,Male,0,Yes,Yes,58,Yes,No,55.19,3201.02,Yes
+4228-LLLLL,Female,0,Yes,Yes,46,Yes,No,90.56,4165.76,Yes
+8066-CCCCC,Male,1,Yes,No,33,Yes,No,72.16,2381.28,No
+6409-TTTTT,Female,0,Yes,Yes,36,Yes,DSL,32.46,1168.56,Yes
+6143-VVVVV,Male,0,Yes,No,5,Yes,DSL,116.14,580.7,No
+3041-XXXXX,Male,0,No,No,6,Yes,DSL,83.59,501.54,No
+5920-QQQQQ,Male,0,No,No,24,No,Fiber optic,96.59,2318.16,No
+6067-VVVVV,Male,0,No,No,32,No,DSL,27.92,893.44,No
+7691-KKKKK,Female,0,No,No,54,Yes,No,24.71,1334.34,No
+7592-WWWWW,Female,1,Yes,Yes,57,No,No,21.94,1250.58,No
+5844-RRRRR,Male,0,Yes,Yes,6,Yes,DSL,38.88,233.28,No
+3085-GGGGG,Male,0,No,Yes,56,Yes,DSL,61.44,3440.64,No
+7888-VVVVV,Female,0,No,No,11,Yes,No,113.58,1249.38,No
+7211-VVVVV,Male,0,Yes,Yes,15,Yes,DSL,65.71,985.65,No
+3851-TTTTT,Male,0,No,Yes,42,Yes,No,49.03,2059.26,Yes
+5930-MMMMM,Male,0,No,Yes,6,Yes,Fiber optic,76.19,457.14,No
+9977-AAAAA,Female,0,No,Yes,50,Yes,No,31.19,1559.5,Yes
+5978-JJJJJ,Female,0,No,Yes,31,Yes,Fiber optic,80.95,2509.45,No
+4443-NNNNN,Female,1,Yes,No,7,Yes,DSL,76.84,537.88,Yes
+6279-OOOOO,Male,0,No,Yes,71,No,DSL,99.2,7043.2,No
+8238-OOOOO,Male,0,No,No,44,Yes,Fiber optic,118.67,5221.48,No
+4501-QQQQQ,Female,0,Yes,No,58,Yes,DSL,45.09,2615.22,Yes
+8752-ZZZZZ,Female,1,Yes,No,3,Yes,Fiber optic,70.97,212.91,No
+3780-VVVVV,Female,0,No,No,66,Yes,DSL,110.89,7318.74,No
+2389-JJJJJ,Female,0,Yes,No,28,Yes,No,98.52,2758.56,No
+9445-VVVVV,Male,0,No,Yes,28,Yes,DSL,68.74,1924.72,No
+6491-CCCCC,Female,0,No,Yes,27,Yes,No,114.54,3092.58,No
+4848-VVVVV,Male,0,Yes,Yes,43,Yes,No,25.72,1105.96,No
+6085-HHHHH,Female,0,No,No,3,Yes,Fiber optic,113.1,339.3,No
+4262-EEEEE,Male,0,No,Yes,8,Yes,DSL,25.05,200.4,No
+1400-BBBBB,Female,0,No,Yes,4,Yes,Fiber optic,74.73,298.92,Yes
+5011-PPPPP,Female,0,No,No,55,Yes,DSL,109.04,5997.2,No
+2193-OOOOO,Female,0,Yes,No,49,Yes,No,46.27,2267.23,No
+7790-UUUUU,Female,0,Yes,No,14,Yes,No,67.22,941.08,Yes
+4185-WWWWW,Male,0,No,No,31,Yes,DSL,52.43,1625.33,No
+7291-PPPPP,Female,0,Yes,Yes,27,No,DSL,115.21,3110.67,No
+7547-HHHHH,Male,1,No,No,21,No,Fiber optic,102.36,2149.56,No
+3417-UUUUU,Male,0,No,No,16,Yes,DSL,90.9,1454.4,Yes
+1090-YYYYY,Male,0,No,Yes,58,Yes,DSL,78.76,4568.08,No
+2746-YYYYY,Male,0,No,Yes,70,Yes,DSL,102.06,7144.2,No
+7965-HHHHH,Female,1,No,No,56,Yes,Fiber optic,59.23,3316.88,No
+3881-ZZZZZ,Male,0,Yes,Yes,25,Yes,DSL,64.76,1619.0,No
+9486-OOOOO,Male,0,No,No,24,Yes,No,93.0,2232.0,No
+1822-RRRRR,Male,0,Yes,No,9,No,Fiber optic,55.78,502.02,No
+5082-DDDDD,Female,0,Yes,Yes,44,Yes,Fiber optic,26.39,1161.16,Yes
+8478-EEEEE,Female,0,No,Yes,10,No,No,27.43,274.3,No
+8612-VVVVV,Female,1,No,No,52,Yes,No,31.54,1640.08,No
+9702-RRRRR,Female,1,No,No,71,Yes,No,106.97,7594.87,Yes
+6198-YYYYY,Male,0,No,No,67,Yes,DSL,67.22,4503.74,No
+8251-TTTTT,Male,0,No,Yes,27,Yes,No,91.29,2464.83,Yes
+9270-NNNNN,Female,1,Yes,No,64,Yes,DSL,59.29,3794.56,Yes
+9976-OOOOO,Male,0,No,No,48,Yes,Fiber optic,45.87,2201.76,No
+3607-XXXXX,Male,0,No,No,46,Yes,Fiber optic,54.72,2517.12,No
+8777-OOOOO,Male,0,Yes,No,51,Yes,No,99.42,5070.42,No
+5246-YYYYY,Female,0,Yes,No,53,Yes,DSL,82.52,4373.56,No
+5050-UUUUU,Female,0,No,Yes,59,Yes,No,113.76,6711.84,Yes
+5543-YYYYY,Male,0,Yes,No,56,No,No,87.97,4926.32,No
+9540-PPPPP,Female,1,No,No,46,Yes,DSL,77.02,3542.92,No
+4919-IIIII,Female,1,Yes,No,30,Yes,No,81.02,2430.6,No
+8206-CCCCC,Female,0,Yes,No,45,Yes,Fiber optic,114.24,5140.8,No
+5681-HHHHH,Female,0,No,Yes,25,Yes,No,98.82,2470.5,No
+5451-KKKKK,Female,1,Yes,Yes,4,Yes,DSL,22.4,89.6,No
+6238-RRRRR,Male,0,Yes,Yes,51,Yes,DSL,73.41,3743.91,No
+2320-EEEEE,Female,0,Yes,No,53,Yes,Fiber optic,88.83,4707.99,Yes
+3471-HHHHH,Male,1,Yes,No,32,Yes,DSL,94.87,3035.84,No
+7275-WWWWW,Male,1,Yes,Yes,49,Yes,DSL,41.31,2024.19,Yes
+3503-WWWWW,Female,0,Yes,Yes,37,Yes,Fiber optic,106.72,3948.64,Yes
+4505-CCCCC,Male,0,No,Yes,26,Yes,No,115.58,3005.08,Yes
+7797-NNNNN,Male,0,No,No,14,Yes,Fiber optic,43.67,611.38,No
+6421-RRRRR,Male,0,Yes,No,60,Yes,No,108.26,6495.6,No
+8633-NNNNN,Female,0,No,Yes,20,Yes,Fiber optic,29.7,594.0,No
+2020-GGGGG,Female,0,No,Yes,45,Yes,No,25.57,1150.65,No
+7883-MMMMM,Male,0,No,Yes,68,Yes,Fiber optic,32.92,2238.56,No
+1320-YYYYY,Female,0,Yes,No,5,Yes,No,25.77,128.85,No
+7232-PPPPP,Female,0,No,No,37,Yes,Fiber optic,104.5,3866.5,Yes
+1096-LLLLL,Female,0,Yes,No,61,Yes,No,25.91,1580.51,No
+5892-YYYYY,Female,1,No,Yes,61,Yes,Fiber optic,47.17,2877.37,No
+7389-NNNNN,Male,0,Yes,Yes,45,No,DSL,30.38,1367.1,No
+9818-XXXXX,Male,0,Yes,No,12,Yes,No,49.54,594.48,No
+9947-ZZZZZ,Female,0,No,Yes,2,Yes,Fiber optic,29.06,58.12,Yes
+4613-PPPPP,Female,0,No,No,5,Yes,No,86.8,434.0,No
+4595-IIIII,Male,0,Yes,Yes,7,Yes,No,33.33,233.31,No
+8140-PPPPP,Male,0,No,Yes,43,Yes,Fiber optic,105.18,4522.74,No
+1475-MMMMM,Female,0,No,Yes,32,Yes,No,101.72,3255.04,Yes
+6507-VVVVV,Male,0,No,Yes,49,Yes,Fiber optic,21.37,1047.13,No
+7624-XXXXX,Female,0,Yes,No,10,Yes,DSL,109.57,1095.7,No
+3704-OOOOO,Female,0,Yes,Yes,27,Yes,No,22.89,618.03,Yes
+3091-TTTTT,Male,1,No,No,69,Yes,DSL,43.96,3033.24,No
+9751-AAAAA,Male,0,No,No,40,Yes,No,23.24,929.6,No
+7455-SSSSS,Female,0,No,No,15,Yes,No,53.58,803.7,No
+1444-CCCCC,Female,0,Yes,Yes,67,No,No,71.39,4783.13,No
+8022-EEEEE,Male,0,Yes,No,47,Yes,Fiber optic,99.66,4684.02,No
+8564-FFFFF,Female,0,No,No,55,No,DSL,53.8,2959.0,No
+1823-IIIII,Male,0,No,No,63,No,No,90.55,5704.65,Yes
+7211-KKKKK,Female,1,No,Yes,58,Yes,Fiber optic,38.75,2247.5,Yes
+4467-OOOOO,Male,0,No,Yes,61,Yes,No,95.06,5798.66,Yes
+6355-KKKKK,Male,0,No,No,10,Yes,Fiber optic,43.6,436.0,No
+7211-IIIII,Male,0,No,Yes,17,Yes,No,34.35,583.95,No
+7906-IIIII,Female,1,Yes,No,18,Yes,DSL,38.54,693.72,No
+2341-PPPPP,Female,0,No,No,54,Yes,DSL,38.21,2063.34,No
+1317-XXXXX,Male,0,Yes,Yes,25,Yes,No,71.29,1782.25,No
+9837-BBBBB,Female,0,No,No,5,Yes,Fiber optic,104.48,522.4,No
+6733-HHHHH,Male,0,No,Yes,3,No,No,27.96,83.88,Yes
+2124-YYYYY,Male,0,Yes,Yes,28,Yes,Fiber optic,90.7,2539.6,No
+1659-YYYYY,Female,1,Yes,No,58,Yes,No,85.43,4954.94,No
+1508-HHHHH,Female,0,Yes,Yes,16,Yes,Fiber optic,107.25,1716.0,No
+4266-AAAAA,Male,0,Yes,Yes,42,No,DSL,44.41,1865.22,No
+3496-HHHHH,Female,0,No,No,65,Yes,No,65.01,4225.65,No
+3068-PPPPP,Female,0,Yes,No,33,Yes,DSL,112.58,3715.14,Yes
+2874-SSSSS,Male,0,No,Yes,7,Yes,DSL,86.0,602.0,No
+4571-OOOOO,Male,0,Yes,Yes,12,Yes,No,58.88,706.56,No
+5198-YYYYY,Female,0,No,No,7,Yes,No,33.14,231.98,No
+7043-FFFFF,Male,0,No,Yes,64,No,Fiber optic,46.25,2960.0,No
+2876-YYYYY,Male,0,No,Yes,42,Yes,Fiber optic,78.12,3281.04,No
+3683-JJJJJ,Female,0,No,Yes,38,Yes,DSL,91.82,3489.16,No
+2771-SSSSS,Male,0,No,Yes,58,Yes,Fiber optic,32.44,1881.52,No
+1420-JJJJJ,Male,0,No,Yes,43,Yes,Fiber optic,79.96,3438.28,No
+7149-MMMMM,Female,0,Yes,Yes,8,Yes,No,75.04,600.32,No
+4249-CCCCC,Female,0,No,Yes,36,Yes,Fiber optic,71.4,2570.4,No
+4978-DDDDD,Male,1,Yes,No,35,Yes,DSL,89.01,3115.35,No
+5941-VVVVV,Male,1,Yes,No,27,Yes,Fiber optic,103.74,2800.98,No
+2983-ZZZZZ,Female,0,No,No,41,Yes,DSL,52.3,2144.3,Yes
+1672-LLLLL,Female,0,Yes,No,42,Yes,No,108.9,4573.8,No
+9728-NNNNN,Female,0,No,No,41,Yes,DSL,36.06,1478.46,No
+7071-CCCCC,Female,0,Yes,Yes,65,Yes,Fiber optic,37.3,2424.5,No
+9289-UUUUU,Male,0,No,Yes,54,Yes,No,46.68,2520.72,Yes
+6590-AAAAA,Female,0,Yes,Yes,71,No,Fiber optic,31.95,2268.45,Yes
+7882-PPPPP,Female,0,No,Yes,47,Yes,No,43.03,2022.41,Yes
+2729-NNNNN,Male,0,No,No,21,Yes,No,30.64,643.44,Yes
+6934-UUUUU,Female,0,No,Yes,26,Yes,Fiber optic,102.18,2656.68,No
+8532-WWWWW,Male,0,No,Yes,66,Yes,Fiber optic,33.9,2237.4,No
+3506-NNNNN,Female,0,Yes,No,12,Yes,No,94.73,1136.76,No
+3885-XXXXX,Female,0,No,Yes,44,Yes,No,24.79,1090.76,No
+9548-UUUUU,Female,0,Yes,Yes,9,Yes,Fiber optic,114.85,1033.65,No
+5425-TTTTT,Male,0,Yes,No,8,No,DSL,91.12,728.96,Yes
+9817-YYYYY,Male,0,Yes,Yes,53,Yes,Fiber optic,20.68,1096.04,No
+8921-OOOOO,Female,0,No,Yes,26,Yes,No,96.39,2506.14,Yes
+8136-XXXXX,Male,0,Yes,Yes,33,Yes,Fiber optic,71.41,2356.53,No
+5397-KKKKK,Male,0,Yes,Yes,0,Yes,DSL,97.94,0.0,No
+5022-CCCCC,Male,0,Yes,Yes,31,Yes,Fiber optic,72.25,2239.75,Yes
+5569-OOOOO,Male,0,No,No,70,Yes,No,84.1,5887.0,No
+4995-YYYYY,Male,0,No,No,66,Yes,Fiber optic,98.63,6509.58,No
+8613-SSSSS,Male,1,Yes,No,19,Yes,No,60.51,1149.69,No
+7209-KKKKK,Female,0,No,No,34,Yes,No,20.27,689.18,No
+1470-PPPPP,Female,0,No,No,16,Yes,Fiber optic,104.99,1679.84,Yes
+6325-FFFFF,Male,0,Yes,No,17,Yes,No,58.09,987.53,No
+8988-GGGGG,Female,0,Yes,Yes,44,Yes,No,69.6,3062.4,Yes
+6813-ZZZZZ,Female,0,No,No,52,Yes,DSL,20.78,1080.56,No
+5232-KKKKK,Female,1,Yes,No,67,Yes,DSL,69.21,4637.07,Yes
+5581-TTTTT,Female,0,No,Yes,64,Yes,DSL,118.65,7593.6,No
+5526-RRRRR,Male,0,No,Yes,0,Yes,DSL,47.83,0.0,No
+1166-QQQQQ,Female,0,No,No,57,No,No,59.54,3393.78,No
+4130-CCCCC,Female,0,No,Yes,25,Yes,Fiber optic,88.72,2218.0,No
+4954-XXXXX,Male,0,No,No,19,Yes,No,101.48,1928.12,No
+7658-PPPPP,Male,0,No,Yes,9,Yes,No,61.74,555.66,No
+4937-WWWWW,Female,0,Yes,No,58,Yes,No,50.97,2956.26,No
+8800-UUUUU,Female,1,Yes,Yes,40,Yes,Fiber optic,113.78,4551.2,Yes
+9041-OOOOO,Female,0,No,Yes,4,Yes,DSL,87.71,350.84,No
+1282-CCCCC,Female,0,No,No,64,Yes,No,31.9,2041.6,Yes
+5820-HHHHH,Female,0,No,No,16,Yes,No,26.89,430.24,Yes
+7625-WWWWW,Female,0,Yes,No,21,Yes,DSL,68.35,1435.35,No
+4986-JJJJJ,Male,0,No,No,40,Yes,No,42.01,1680.4,No
+7046-PPPPP,Female,0,Yes,No,67,Yes,Fiber optic,45.4,3041.8,No
+9698-LLLLL,Female,0,No,Yes,68,Yes,No,107.77,7328.36,No
+7971-XXXXX,Male,0,No,No,10,Yes,No,28.96,289.6,No
+6419-LLLLL,Male,0,Yes,No,55,Yes,DSL,91.54,5034.7,Yes
+8434-IIIII,Male,0,Yes,Yes,50,Yes,No,47.11,2355.5,Yes
+6023-IIIII,Male,0,No,Yes,20,Yes,No,96.03,1920.6,Yes
+4777-DDDDD,Female,1,No,No,25,Yes,Fiber optic,92.24,2306.0,No
+4155-KKKKK,Female,0,No,Yes,18,Yes,DSL,20.74,373.32,No
+2958-XXXXX,Female,0,Yes,Yes,59,Yes,DSL,70.91,4183.69,Yes
+9779-YYYYY,Female,1,Yes,No,70,Yes,Fiber optic,33.93,2375.1,No
+4033-GGGGG,Female,0,Yes,Yes,46,Yes,No,106.62,4904.52,Yes
+4545-XXXXX,Female,1,Yes,Yes,70,Yes,DSL,107.16,7501.2,No
+8933-IIIII,Male,0,Yes,No,25,Yes,DSL,61.83,1545.75,No
+9595-TTTTT,Female,0,Yes,No,39,Yes,No,64.44,2513.16,No
+5636-DDDDD,Male,0,No,Yes,4,Yes,No,50.33,201.32,No
+4180-JJJJJ,Male,0,No,Yes,20,Yes,DSL,91.66,1833.2,No
+4727-LLLLL,Female,0,Yes,No,3,Yes,No,55.87,167.61,No
+3939-JJJJJ,Male,0,No,Yes,22,Yes,DSL,46.78,1029.16,No
+1231-WWWWW,Female,0,No,Yes,14,Yes,No,63.22,885.08,No
+9751-EEEEE,Male,0,Yes,Yes,7,Yes,No,29.15,204.05,No
+5494-BBBBB,Female,0,No,No,40,No,Fiber optic,94.66,3786.4,Yes
+1893-RRRRR,Male,1,Yes,Yes,18,Yes,No,21.26,382.68,No
+5786-WWWWW,Female,0,Yes,Yes,45,Yes,Fiber optic,84.45,3800.25,No
+3068-UUUUU,Female,0,No,No,27,Yes,No,38.29,1033.83,Yes
+9042-DDDDD,Female,0,Yes,Yes,67,Yes,DSL,43.24,2897.08,No
+1200-SSSSS,Female,0,Yes,Yes,14,Yes,DSL,83.56,1169.84,No
+5658-PPPPP,Female,1,Yes,No,36,Yes,No,119.29,4294.44,No
+8843-OOOOO,Male,0,Yes,No,0,Yes,No,97.77,0.0,No
+6582-FFFFF,Male,0,Yes,No,66,Yes,DSL,42.58,2810.28,No
+1841-IIIII,Male,0,Yes,No,23,Yes,No,37.6,864.8,No
+8827-DDDDD,Female,0,Yes,Yes,26,Yes,Fiber optic,106.62,2772.12,No
+2070-MMMMM,Male,0,Yes,Yes,39,Yes,Fiber optic,64.42,2512.38,No
+9056-CCCCC,Female,0,No,No,62,Yes,Fiber optic,33.71,2090.02,No
+1878-EEEEE,Female,0,No,No,60,Yes,Fiber optic,106.22,6373.2,No
+3444-ZZZZZ,Male,0,No,Yes,35,Yes,Fiber optic,101.61,3556.35,No
+5978-CCCCC,Male,0,Yes,No,23,No,No,118.39,2722.97,No
+5066-DDDDD,Female,1,Yes,Yes,23,Yes,No,110.97,2552.31,No
+7818-TTTTT,Male,1,No,No,3,Yes,Fiber optic,105.18,315.54,Yes
+4697-YYYYY,Female,0,No,Yes,66,Yes,No,25.26,1667.16,Yes
+9561-MMMMM,Female,0,No,No,33,Yes,No,30.44,1004.52,No
+8381-OOOOO,Female,0,Yes,No,56,Yes,Fiber optic,76.9,4306.4,No
+5871-SSSSS,Female,0,No,Yes,48,Yes,No,73.15,3511.2,Yes
+8025-JJJJJ,Female,1,No,No,52,Yes,No,65.8,3421.6,No
+1986-TTTTT,Male,0,Yes,Yes,22,Yes,No,59.68,1312.96,Yes
+2625-YYYYY,Male,0,No,Yes,68,Yes,Fiber optic,63.12,4292.16,No
+4404-UUUUU,Female,0,Yes,Yes,52,Yes,No,76.93,4000.36,Yes
+4457-IIIII,Female,0,Yes,Yes,61,Yes,DSL,20.21,1232.81,No
+2330-FFFFF,Male,0,Yes,Yes,40,Yes,DSL,46.07,1842.8,No
+4929-FFFFF,Male,0,No,No,56,Yes,Fiber optic,71.83,4022.48,No
+2229-FFFFF,Female,0,No,No,59,No,DSL,92.22,5440.98,No
+1043-NNNNN,Male,0,Yes,Yes,53,Yes,Fiber optic,37.42,1983.26,Yes
+8381-WWWWW,Female,0,No,No,69,Yes,DSL,74.69,5153.61,No
+8699-JJJJJ,Male,0,No,Yes,56,Yes,DSL,91.45,5121.2,No
+1534-HHHHH,Female,0,No,No,9,Yes,DSL,64.46,580.14,No
+5720-WWWWW,Male,0,No,No,39,Yes,Fiber optic,22.71,885.69,No
+5632-WWWWW,Female,0,Yes,No,6,No,Fiber optic,64.93,389.58,No
+8438-CCCCC,Male,0,No,No,37,Yes,No,49.64,1836.68,Yes
+4824-IIIII,Male,0,Yes,Yes,60,Yes,Fiber optic,112.96,6777.6,No
+4241-NNNNN,Female,0,Yes,Yes,2,Yes,DSL,32.46,64.92,No
+2880-RRRRR,Male,0,No,No,50,Yes,DSL,85.25,4262.5,No
+4683-UUUUU,Female,1,Yes,No,46,Yes,Fiber optic,25.27,1162.42,No
+3441-IIIII,Male,0,No,Yes,67,Yes,Fiber optic,64.62,4329.54,No
+3330-CCCCC,Female,0,No,No,37,Yes,Fiber optic,75.4,2789.8,No
+1977-FFFFF,Male,0,Yes,Yes,35,Yes,No,49.8,1743.0,Yes
+6039-TTTTT,Female,0,Yes,Yes,40,Yes,DSL,65.51,2620.4,No
+5728-OOOOO,Male,0,Yes,Yes,68,Yes,No,36.36,2472.48,Yes
+3037-OOOOO,Female,0,Yes,No,12,No,No,50.41,604.92,Yes
+5982-WWWWW,Male,0,No,Yes,57,Yes,DSL,82.11,4680.27,No
+7594-IIIII,Female,0,No,No,49,Yes,DSL,50.18,2458.82,No
+9199-RRRRR,Female,0,No,Yes,29,Yes,Fiber optic,109.97,3189.13,No
+9090-OOOOO,Female,0,Yes,No,61,Yes,Fiber optic,82.84,5053.24,Yes
+2317-TTTTT,Male,0,Yes,No,24,No,No,63.86,1532.64,No
+1653-NNNNN,Female,0,Yes,No,26,Yes,Fiber optic,23.88,620.88,No
+6280-TTTTT,Male,0,No,Yes,50,Yes,Fiber optic,69.95,3497.5,No
+5102-AAAAA,Female,0,Yes,Yes,56,Yes,DSL,96.48,5402.88,No
+2496-HHHHH,Male,0,No,No,46,Yes,DSL,46.56,2141.76,No
+1339-YYYYY,Female,0,Yes,No,38,Yes,Fiber optic,100.68,3825.84,No
+5415-SSSSS,Male,0,No,No,15,Yes,DSL,45.18,677.7,No
+1659-YYYYY,Male,0,No,Yes,21,Yes,Fiber optic,102.37,2149.77,No
+3870-PPPPP,Female,0,Yes,Yes,53,Yes,DSL,28.53,1512.09,No
+9502-UUUUU,Male,0,Yes,Yes,20,Yes,DSL,106.62,2132.4,Yes
+8245-IIIII,Male,0,No,Yes,71,No,DSL,69.92,4964.32,No
+3973-SSSSS,Female,0,No,No,15,Yes,DSL,49.65,744.75,No
+8141-UUUUU,Male,0,Yes,No,58,Yes,Fiber optic,46.51,2697.58,Yes
+9056-CCCCC,Male,0,Yes,Yes,30,Yes,No,63.2,1896.0,Yes
+8700-LLLLL,Male,1,No,Yes,41,Yes,DSL,119.9,4915.9,No
+7690-KKKKK,Female,0,Yes,No,31,Yes,Fiber optic,42.03,1302.93,Yes
+6260-VVVVV,Male,1,No,Yes,58,Yes,Fiber optic,30.32,1758.56,No
+2713-FFFFF,Female,0,No,Yes,33,No,DSL,78.5,2590.5,No
+6403-NNNNN,Male,0,Yes,Yes,8,Yes,No,68.85,550.8,No
+9117-JJJJJ,Male,0,Yes,Yes,10,Yes,DSL,72.42,724.2,Yes
+7561-YYYYY,Male,1,Yes,Yes,9,Yes,Fiber optic,86.69,780.21,No
+1601-OOOOO,Female,0,Yes,Yes,16,Yes,No,46.71,747.36,No
+2442-KKKKK,Male,0,Yes,No,67,Yes,Fiber optic,111.07,7441.69,No
+5135-KKKKK,Male,0,No,Yes,47,Yes,DSL,63.57,2987.79,No
+2899-YYYYY,Female,0,No,Yes,51,Yes,No,32.91,1678.41,No
+7622-QQQQQ,Male,1,Yes,No,24,Yes,Fiber optic,94.23,2261.52,No
+1018-VVVVV,Female,0,Yes,No,20,Yes,Fiber optic,84.31,1686.2,No
+9889-OOOOO,Female,0,Yes,No,64,Yes,Fiber optic,51.57,3300.48,No
+7770-BBBBB,Male,0,No,Yes,62,Yes,DSL,82.15,5093.3,No
+4073-QQQQQ,Female,1,Yes,No,50,Yes,No,41.99,2099.5,Yes
+6927-TTTTT,Male,1,Yes,Yes,35,Yes,DSL,64.48,2256.8,No
+9167-UUUUU,Female,0,No,Yes,65,Yes,DSL,109.94,7146.1,No
+8242-YYYYY,Female,0,No,Yes,14,Yes,DSL,33.35,466.9,No
+1845-GGGGG,Male,1,Yes,No,38,Yes,No,58.67,2229.46,No
+5375-RRRRR,Female,0,Yes,No,69,Yes,DSL,102.11,7045.59,No
+3146-JJJJJ,Female,0,Yes,No,0,No,DSL,116.95,0.0,Yes
+8178-WWWWW,Female,1,No,No,22,Yes,DSL,65.39,1438.58,Yes
+8941-DDDDD,Female,0,Yes,No,38,Yes,DSL,70.7,2686.6,No
+1472-UUUUU,Female,0,Yes,Yes,56,Yes,Fiber optic,77.22,4324.32,No
+4920-WWWWW,Male,0,Yes,Yes,33,Yes,DSL,113.23,3736.59,Yes
+3594-JJJJJ,Female,1,No,Yes,40,Yes,Fiber optic,105.82,4232.8,No
+1224-RRRRR,Male,1,No,Yes,12,Yes,DSL,37.06,444.72,No
+7684-CCCCC,Female,1,Yes,No,69,Yes,No,63.68,4393.92,No
+4681-DDDDD,Male,0,Yes,No,5,Yes,Fiber optic,66.4,332.0,No
+8560-DDDDD,Male,1,No,Yes,51,No,Fiber optic,98.91,5044.41,No
+3522-PPPPP,Female,1,No,No,2,Yes,Fiber optic,80.29,160.58,No
+5781-QQQQQ,Female,0,No,No,62,Yes,Fiber optic,85.42,5296.04,Yes
+5479-NNNNN,Female,0,No,Yes,48,Yes,No,119.82,5751.36,No
+8905-PPPPP,Male,0,No,Yes,46,Yes,DSL,27.5,1265.0,Yes
+4993-OOOOO,Female,0,No,No,54,Yes,Fiber optic,42.3,2284.2,No
+3369-MMMMM,Male,0,No,No,63,Yes,No,60.79,3829.77,No
+4122-TTTTT,Male,0,No,Yes,64,Yes,Fiber optic,54.78,3505.92,No
+9327-XXXXX,Male,0,No,Yes,66,Yes,DSL,22.16,1462.56,No
+3236-CCCCC,Female,0,Yes,Yes,14,Yes,Fiber optic,29.18,408.52,No
+5526-YYYYY,Female,0,Yes,No,31,Yes,No,88.1,2731.1,Yes
+7798-KKKKK,Male,0,Yes,Yes,67,Yes,DSL,107.93,7231.31,No
+9318-IIIII,Male,0,No,Yes,17,Yes,No,71.42,1214.14,No
+1042-JJJJJ,Female,0,Yes,No,42,Yes,DSL,73.92,3104.64,No
+5891-SSSSS,Male,0,No,No,34,Yes,DSL,45.51,1547.34,Yes
+9022-EEEEE,Female,0,No,No,57,Yes,DSL,96.79,5517.03,No
+8316-RRRRR,Male,0,Yes,No,32,Yes,Fiber optic,95.18,3045.76,No
+8935-LLLLL,Female,0,No,No,13,Yes,No,78.84,1024.92,No
+6446-RRRRR,Male,1,Yes,Yes,33,No,No,41.27,1361.91,No
+9903-MMMMM,Female,0,Yes,Yes,60,Yes,No,29.7,1782.0,No
+8460-KKKKK,Male,0,Yes,No,3,Yes,DSL,26.42,79.26,No
+4090-WWWWW,Female,0,No,No,58,Yes,Fiber optic,79.27,4597.66,No
+4912-SSSSS,Female,1,Yes,No,28,Yes,DSL,102.5,2870.0,No
+7274-HHHHH,Male,0,No,No,5,Yes,No,105.83,529.15,No
+7730-BBBBB,Male,1,Yes,No,48,Yes,Fiber optic,66.36,3185.28,No
+6213-XXXXX,Female,0,Yes,Yes,39,Yes,Fiber optic,98.43,3838.77,No
+8749-WWWWW,Male,1,Yes,Yes,64,Yes,Fiber optic,114.69,7340.16,Yes
+7246-MMMMM,Female,0,No,Yes,68,Yes,No,47.52,3231.36,No
+3492-PPPPP,Male,1,No,Yes,26,No,Fiber optic,59.8,1554.8,Yes
+1606-EEEEE,Female,0,No,No,5,Yes,Fiber optic,113.15,565.75,No
+9229-SSSSS,Female,0,Yes,Yes,12,Yes,DSL,53.82,645.84,No
+6439-DDDDD,Female,0,Yes,No,63,Yes,DSL,111.39,7017.57,No
+8213-DDDDD,Female,0,No,No,61,Yes,Fiber optic,118.1,7204.1,No
+9617-OOOOO,Female,0,No,No,18,Yes,Fiber optic,86.18,1551.24,No
+1251-XXXXX,Female,1,No,Yes,42,Yes,DSL,101.69,4270.98,Yes
+3361-NNNNN,Male,1,No,No,19,Yes,DSL,94.95,1804.05,No
+3529-CCCCC,Male,0,No,Yes,67,Yes,DSL,89.95,6026.65,No
+8692-ZZZZZ,Male,0,No,Yes,43,Yes,No,50.69,2179.67,No
+5342-KKKKK,Female,0,Yes,No,22,Yes,No,25.71,565.62,No
+7512-UUUUU,Female,0,No,No,1,Yes,DSL,54.31,54.31,No
+2315-KKKKK,Female,0,Yes,No,21,Yes,Fiber optic,86.69,1820.49,Yes
+9742-MMMMM,Female,0,Yes,Yes,56,Yes,DSL,30.25,1694.0,No
+6188-UUUUU,Male,0,No,No,71,Yes,No,21.19,1504.49,No
+8994-RRRRR,Male,0,No,Yes,6,Yes,Fiber optic,33.97,203.82,Yes
+1588-TTTTT,Female,0,Yes,No,55,No,No,91.57,5036.35,No
+2121-HHHHH,Male,0,No,No,66,Yes,Fiber optic,117.28,7740.48,No
+5708-HHHHH,Male,0,No,Yes,15,Yes,No,118.31,1774.65,No
+2480-NNNNN,Female,0,Yes,Yes,50,Yes,Fiber optic,69.4,3470.0,Yes
+2612-YYYYY,Male,1,Yes,Yes,71,Yes,Fiber optic,106.94,7592.74,Yes
+2646-OOOOO,Female,0,Yes,Yes,11,Yes,Fiber optic,93.68,1030.48,No
+3725-WWWWW,Male,0,No,Yes,52,No,Fiber optic,70.1,3645.2,Yes
+5906-AAAAA,Female,0,Yes,Yes,4,Yes,No,77.28,309.12,No
+1753-KKKKK,Female,0,No,No,26,Yes,No,33.72,876.72,No
+1919-JJJJJ,Female,1,Yes,No,11,Yes,Fiber optic,113.77,1251.47,No
+6873-LLLLL,Female,0,Yes,Yes,16,Yes,Fiber optic,55.19,883.04,No
+8056-EEEEE,Male,0,Yes,No,5,Yes,No,64.61,323.05,No
+5000-QQQQQ,Female,0,No,Yes,4,No,Fiber optic,87.17,348.68,Yes
+7751-SSSSS,Female,1,No,No,56,Yes,Fiber optic,53.39,2989.84,No
+3950-FFFFF,Female,1,Yes,No,27,Yes,Fiber optic,45.43,1226.61,No
+3868-CCCCC,Male,0,Yes,Yes,68,Yes,DSL,83.1,5650.8,No
+7267-TTTTT,Female,0,Yes,Yes,58,Yes,Fiber optic,22.5,1305.0,No
+4945-PPPPP,Male,0,No,Yes,32,Yes,DSL,92.07,2946.24,No
+3344-HHHHH,Female,1,Yes,No,61,Yes,Fiber optic,71.4,4355.4,No
+8555-UUUUU,Male,0,No,Yes,49,Yes,No,80.58,3948.42,No
+5161-OOOOO,Male,1,Yes,No,18,Yes,DSL,83.19,1497.42,Yes
+5183-VVVVV,Female,0,Yes,Yes,68,Yes,DSL,72.71,4944.28,No
+1153-ZZZZZ,Male,0,Yes,No,65,Yes,Fiber optic,78.25,5086.25,No
+8622-JJJJJ,Female,0,Yes,No,46,Yes,Fiber optic,88.38,4065.48,No
+9955-FFFFF,Female,0,Yes,Yes,38,Yes,DSL,95.31,3621.78,No
+2210-OOOOO,Female,0,Yes,No,67,Yes,No,92.75,6214.25,No
+6661-SSSSS,Male,0,No,No,32,Yes,No,106.96,3422.72,No
+5901-UUUUU,Male,0,Yes,Yes,12,Yes,Fiber optic,38.94,467.28,No
+7951-WWWWW,Female,0,No,No,53,Yes,No,60.11,3185.83,Yes
+5097-OOOOO,Female,0,Yes,Yes,6,Yes,No,114.78,688.68,No
+5949-GGGGG,Male,0,Yes,Yes,13,Yes,Fiber optic,59.66,775.58,No
+7302-PPPPP,Female,1,No,Yes,18,Yes,No,32.49,584.82,Yes
+2747-HHHHH,Female,1,Yes,Yes,53,Yes,Fiber optic,72.54,3844.62,No
+7248-SSSSS,Female,1,No,No,19,Yes,DSL,30.95,588.05,No
+6881-SSSSS,Male,1,No,No,28,Yes,Fiber optic,40.29,1128.12,Yes
+5847-WWWWW,Male,0,Yes,No,23,Yes,DSL,119.83,2756.09,No
+5837-AAAAA,Male,0,No,Yes,62,Yes,DSL,74.14,4596.68,No
+7484-IIIII,Female,0,No,No,56,Yes,No,48.41,2710.96,Yes
+1132-SSSSS,Female,0,Yes,No,7,Yes,No,119.48,836.36,No
+1803-TTTTT,Female,0,No,Yes,61,Yes,No,116.66,7116.26,Yes
+9138-JJJJJ,Male,0,Yes,Yes,28,Yes,Fiber optic,64.07,1793.96,No
+4770-TTTTT,Female,0,Yes,No,16,Yes,No,46.04,736.64,Yes
+6772-HHHHH,Female,0,Yes,Yes,65,Yes,DSL,103.84,6749.6,No
+4115-TTTTT,Female,0,Yes,Yes,5,Yes,No,91.56,457.8,No
+5106-VVVVV,Female,0,No,Yes,57,Yes,No,88.69,5055.33,Yes
+3240-UUUUU,Male,0,Yes,Yes,68,Yes,Fiber optic,109.31,7433.08,No
+2591-UUUUU,Male,0,Yes,No,27,Yes,Fiber optic,88.94,2401.38,No
+1645-JJJJJ,Female,1,No,Yes,61,Yes,DSL,48.38,2951.18,No
+8222-BBBBB,Male,0,Yes,Yes,40,Yes,Fiber optic,89.39,3575.6,No
+6977-XXXXX,Male,0,Yes,Yes,68,Yes,No,50.58,3439.44,No
+3153-CCCCC,Female,1,No,Yes,40,Yes,Fiber optic,95.92,3836.8,Yes
+5835-KKKKK,Female,1,No,Yes,48,No,DSL,81.97,3934.56,Yes
+7807-FFFFF,Male,1,No,Yes,48,Yes,No,27.74,1331.52,No
+4289-EEEEE,Female,0,No,Yes,70,Yes,DSL,71.28,4989.6,No
+9837-LLLLL,Male,0,No,Yes,2,Yes,Fiber optic,54.33,108.66,No
+9697-QQQQQ,Female,0,No,No,9,Yes,Fiber optic,52.86,475.74,No
+5465-FFFFF,Male,0,No,Yes,34,Yes,DSL,80.23,2727.82,No
+5210-PPPPP,Female,0,Yes,No,1,Yes,No,52.23,52.23,No
+5835-XXXXX,Male,0,No,Yes,23,Yes,Fiber optic,97.69,2246.87,No
+6549-ZZZZZ,Male,0,No,Yes,37,Yes,Fiber optic,27.08,1001.96,Yes
+2886-OOOOO,Male,0,No,Yes,21,Yes,No,86.04,1806.84,No
+2233-EEEEE,Female,0,Yes,Yes,25,Yes,Fiber optic,100.92,2523.0,No
+4696-VVVVV,Male,0,Yes,No,42,Yes,DSL,87.28,3665.76,No
+7511-ZZZZZ,Male,0,No,Yes,54,No,Fiber optic,69.72,3764.88,No
+6992-CCCCC,Female,0,No,Yes,38,Yes,Fiber optic,115.03,4371.14,No
+7464-AAAAA,Female,0,No,No,28,Yes,No,49.99,1399.72,No
+5332-RRRRR,Male,1,Yes,No,19,Yes,DSL,21.92,416.48,Yes
+3024-OOOOO,Male,0,Yes,Yes,40,Yes,No,63.2,2528.0,No
+7038-VVVVV,Female,0,No,No,53,Yes,Fiber optic,23.3,1234.9,No
+5295-SSSSS,Female,0,Yes,No,19,Yes,Fiber optic,115.39,2192.41,No
+7242-UUUUU,Female,0,No,No,18,Yes,No,40.99,737.82,No
+7086-DDDDD,Female,0,Yes,Yes,65,Yes,No,98.89,6427.85,No
+4830-PPPPP,Female,0,Yes,Yes,29,Yes,No,97.46,2826.34,Yes
+1410-TTTTT,Male,0,No,Yes,52,Yes,DSL,41.77,2172.04,Yes
+6374-TTTTT,Female,0,No,No,33,Yes,Fiber optic,82.12,2709.96,No
+4626-UUUUU,Male,1,No,Yes,21,Yes,No,24.81,521.01,No
+2035-UUUUU,Male,0,No,No,66,Yes,Fiber optic,68.36,4511.76,Yes
+8606-WWWWW,Male,0,Yes,Yes,5,Yes,DSL,21.46,107.3,No
+5951-UUUUU,Female,1,Yes,Yes,26,Yes,DSL,112.11,2914.86,No
+7689-DDDDD,Male,1,Yes,No,9,Yes,DSL,117.61,1058.49,No
+3290-BBBBB,Male,0,No,Yes,47,No,DSL,42.23,1984.81,No
+1609-JJJJJ,Female,0,Yes,No,69,Yes,Fiber optic,40.81,2815.89,No
+9071-DDDDD,Male,0,No,No,58,Yes,DSL,95.37,5531.46,Yes
+2592-HHHHH,Male,0,Yes,Yes,58,Yes,DSL,45.34,2629.72,No
+9807-EEEEE,Female,0,No,No,1,Yes,No,109.51,109.51,No
+7367-OOOOO,Male,0,No,Yes,28,Yes,DSL,77.39,2166.92,No
+7078-VVVVV,Male,0,Yes,Yes,67,Yes,No,55.08,3690.36,No
+9850-NNNNN,Male,1,No,No,64,Yes,DSL,103.27,6609.28,No
+3531-NNNNN,Female,1,No,Yes,25,Yes,DSL,69.34,1733.5,No
+2622-PPPPP,Female,0,Yes,No,9,Yes,No,111.16,1000.44,No
+7686-IIIII,Female,0,No,Yes,52,No,DSL,112.8,5865.6,No
+1536-WWWWW,Male,0,No,Yes,58,Yes,Fiber optic,36.54,2119.32,No
+7070-GGGGG,Male,0,No,Yes,21,Yes,Fiber optic,20.23,424.83,No
+8264-OOOOO,Female,0,Yes,Yes,50,Yes,DSL,118.39,5919.5,No
+4868-LLLLL,Male,0,Yes,Yes,47,Yes,Fiber optic,110.61,5198.67,Yes
+2627-VVVVV,Male,0,No,No,20,Yes,No,25.54,510.8,Yes
+7018-RRRRR,Female,0,Yes,No,21,Yes,DSL,103.3,2169.3,Yes
+6876-BBBBB,Female,0,No,No,29,Yes,DSL,65.78,1907.62,No
+7523-IIIII,Male,0,No,No,24,Yes,No,45.9,1101.6,No
+4109-DDDDD,Male,0,No,No,27,Yes,No,107.87,2912.49,No
+8450-CCCCC,Male,0,No,No,64,Yes,No,39.67,2538.88,Yes
+4475-UUUUU,Female,1,No,Yes,44,Yes,DSL,114.73,5048.12,Yes
+1349-BBBBB,Female,0,Yes,Yes,67,Yes,No,40.56,2717.52,Yes
+6464-HHHHH,Female,0,No,No,6,Yes,No,81.37,488.22,No
+3063-ZZZZZ,Female,0,Yes,No,48,Yes,Fiber optic,42.31,2030.88,No
+4362-CCCCC,Male,0,Yes,Yes,8,Yes,Fiber optic,74.57,596.56,No
+4394-SSSSS,Female,0,No,Yes,35,Yes,DSL,88.4,3094.0,Yes
+4538-HHHHH,Female,0,No,Yes,0,Yes,Fiber optic,39.02,0.0,Yes
+6383-YYYYY,Female,0,Yes,No,9,Yes,Fiber optic,72.09,648.81,Yes
+3417-ZZZZZ,Female,0,Yes,No,35,Yes,No,66.91,2341.85,Yes
+1046-IIIII,Female,1,Yes,No,45,Yes,No,27.1,1219.5,No
+3370-EEEEE,Male,0,No,Yes,31,Yes,Fiber optic,101.83,3156.73,Yes
+9850-IIIII,Male,0,Yes,Yes,31,Yes,Fiber optic,53.57,1660.67,No
+3858-DDDDD,Female,1,No,No,5,Yes,Fiber optic,77.46,387.3,No
+1422-EEEEE,Male,0,No,No,47,Yes,DSL,71.48,3359.56,No
+1243-LLLLL,Female,1,No,Yes,37,Yes,DSL,71.33,2639.21,No
+4898-SSSSS,Female,0,Yes,Yes,16,Yes,DSL,30.72,491.52,No
+6304-AAAAA,Male,0,No,Yes,26,No,Fiber optic,62.35,1621.1,Yes
+3854-IIIII,Male,0,No,Yes,53,Yes,Fiber optic,65.24,3457.72,No
+1858-EEEEE,Female,0,No,No,49,Yes,DSL,93.36,4574.64,No
+7897-QQQQQ,Female,0,No,Yes,34,Yes,DSL,104.0,3536.0,Yes
+2862-XXXXX,Female,0,No,Yes,24,No,Fiber optic,74.5,1788.0,No
+2041-PPPPP,Male,0,Yes,Yes,27,Yes,No,28.68,774.36,No
+8344-YYYYY,Female,0,No,No,14,Yes,DSL,43.68,611.52,No
+6931-QQQQQ,Female,0,No,No,3,Yes,Fiber optic,36.49,109.47,Yes
+2786-OOOOO,Female,1,Yes,Yes,26,Yes,Fiber optic,32.46,843.96,Yes
+9254-HHHHH,Male,1,No,Yes,25,Yes,No,56.59,1414.75,No
+1710-XXXXX,Female,1,Yes,Yes,18,Yes,Fiber optic,42.94,772.92,Yes
+9543-JJJJJ,Female,0,No,No,16,Yes,Fiber optic,41.83,669.28,No
+8504-UUUUU,Male,0,Yes,No,42,No,DSL,25.47,1069.74,No
+1510-BBBBB,Female,0,Yes,No,40,Yes,DSL,21.77,870.8,Yes
+8847-MMMMM,Female,0,No,Yes,41,Yes,No,30.28,1241.48,No
+7984-VVVVV,Male,0,No,No,49,Yes,No,37.22,1823.78,No
+2768-PPPPP,Female,0,No,Yes,39,Yes,Fiber optic,63.1,2460.9,Yes
+8267-CCCCC,Male,0,Yes,Yes,38,Yes,DSL,71.05,2699.9,No
+2323-KKKKK,Male,0,Yes,Yes,22,Yes,No,34.06,749.32,No
+3430-CCCCC,Female,0,Yes,No,51,Yes,No,62.48,3186.48,No
+3067-IIIII,Female,0,No,Yes,46,Yes,No,54.17,2491.82,No
+9984-WWWWW,Female,0,Yes,No,62,Yes,Fiber optic,38.34,2377.08,No
+6327-MMMMM,Female,1,Yes,No,68,No,DSL,20.68,1406.24,No
+9692-JJJJJ,Male,0,No,Yes,42,Yes,No,66.7,2801.4,No
+8433-QQQQQ,Female,0,Yes,Yes,47,Yes,DSL,88.57,4162.79,No
+8048-DDDDD,Male,0,Yes,No,33,Yes,No,42.63,1406.79,No
+2874-UUUUU,Female,0,No,Yes,39,Yes,No,33.18,1294.02,No
+4522-NNNNN,Female,0,Yes,No,60,Yes,DSL,108.7,6522.0,Yes
+8398-HHHHH,Female,0,No,Yes,49,Yes,DSL,47.5,2327.5,No
+7779-KKKKK,Male,0,No,No,66,Yes,DSL,42.36,2795.76,No
+8430-MMMMM,Female,0,No,No,61,Yes,Fiber optic,105.71,6448.31,Yes
+7815-XXXXX,Female,0,No,No,57,Yes,No,101.71,5797.47,No
+2557-KKKKK,Female,0,No,No,32,Yes,Fiber optic,64.83,2074.56,Yes
+7992-KKKKK,Female,1,Yes,Yes,15,Yes,DSL,68.92,1033.8,Yes
+5176-LLLLL,Male,0,Yes,Yes,47,Yes,No,41.77,1963.19,No
+3500-VVVVV,Female,0,No,No,9,Yes,Fiber optic,27.83,250.47,No
+8770-CCCCC,Male,1,No,No,37,Yes,No,77.34,2861.58,Yes
+2494-CCCCC,Male,0,Yes,Yes,18,Yes,Fiber optic,29.83,536.94,No
+2527-NNNNN,Male,0,No,Yes,35,Yes,DSL,64.93,2272.55,No
+2582-XXXXX,Male,0,No,Yes,58,Yes,Fiber optic,114.05,6614.9,Yes
+7105-ZZZZZ,Male,0,No,Yes,62,Yes,No,115.28,7147.36,No
+3131-RRRRR,Male,1,Yes,Yes,45,Yes,No,43.93,1976.85,No
+1982-SSSSS,Female,0,Yes,Yes,2,Yes,No,82.41,164.82,No
+6400-VVVVV,Male,1,No,No,64,Yes,No,67.41,4314.24,No
+3002-NNNNN,Male,0,No,Yes,7,Yes,DSL,107.57,752.99,No
+6793-VVVVV,Male,0,Yes,Yes,50,Yes,Fiber optic,47.14,2357.0,Yes
+7929-XXXXX,Female,0,Yes,No,5,Yes,DSL,20.37,101.85,No
+1842-JJJJJ,Female,0,No,Yes,38,Yes,DSL,36.26,1377.88,No
+6119-LLLLL,Male,0,No,Yes,59,Yes,DSL,54.95,3242.05,No
+2697-SSSSS,Female,1,Yes,Yes,27,Yes,No,51.57,1392.39,Yes
+9313-GGGGG,Male,0,Yes,Yes,53,Yes,No,99.14,5254.42,No
+3535-VVVVV,Male,1,Yes,Yes,36,No,No,88.06,3170.16,No
+8900-HHHHH,Female,0,No,No,8,Yes,Fiber optic,49.96,399.68,Yes
+2773-LLLLL,Male,1,Yes,Yes,55,Yes,No,65.77,3617.35,Yes
+7022-DDDDD,Female,0,No,No,58,No,Fiber optic,29.56,1714.48,No
+5564-SSSSS,Female,0,Yes,No,1,Yes,No,109.81,109.81,No
+4705-ZZZZZ,Male,1,Yes,Yes,60,Yes,No,113.54,6812.4,Yes
+8030-RRRRR,Male,0,Yes,No,57,Yes,DSL,117.98,6724.86,No
+1430-TTTTT,Female,0,Yes,Yes,59,Yes,DSL,106.86,6304.74,No
+5381-AAAAA,Male,0,No,No,39,Yes,DSL,37.4,1458.6,No
+3955-IIIII,Male,0,No,No,35,Yes,Fiber optic,24.62,861.7,No
+6062-KKKKK,Male,1,Yes,Yes,36,Yes,Fiber optic,77.96,2806.56,No
+6751-AAAAA,Female,0,No,Yes,17,Yes,No,111.26,1891.42,No
+3972-EEEEE,Female,0,Yes,Yes,62,No,Fiber optic,37.74,2339.88,No
+7566-CCCCC,Male,0,Yes,Yes,21,Yes,No,20.7,434.7,No
+3324-XXXXX,Female,0,Yes,Yes,10,Yes,Fiber optic,100.55,1005.5,No
+1502-CCCCC,Female,0,Yes,No,57,Yes,Fiber optic,27.68,1577.76,No
+9691-GGGGG,Female,0,No,No,56,Yes,Fiber optic,61.37,3436.72,No
+7163-NNNNN,Female,0,Yes,No,3,Yes,DSL,87.89,263.67,Yes
+8432-KKKKK,Female,0,Yes,No,6,No,Fiber optic,43.68,262.08,Yes
+3578-LLLLL,Male,0,No,No,60,Yes,DSL,28.4,1704.0,No
+6105-XXXXX,Male,0,Yes,No,53,Yes,DSL,97.0,5141.0,Yes
+6314-YYYYY,Male,0,Yes,No,67,Yes,Fiber optic,83.02,5562.34,Yes
+2391-BBBBB,Female,0,Yes,Yes,0,Yes,No,118.85,0.0,No
+3549-FFFFF,Female,0,No,Yes,54,No,No,54.43,2939.22,Yes
+1815-VVVVV,Male,0,Yes,No,2,Yes,No,26.18,52.36,Yes
+2336-IIIII,Female,0,No,No,37,Yes,Fiber optic,93.44,3457.28,Yes
+8259-VVVVV,Male,0,Yes,Yes,0,Yes,No,72.17,0.0,No
+7947-PPPPP,Male,0,Yes,Yes,37,Yes,DSL,41.32,1528.84,No
+8242-NNNNN,Male,0,No,Yes,28,Yes,No,98.17,2748.76,No
+5475-GGGGG,Female,0,Yes,Yes,4,Yes,Fiber optic,40.38,161.52,No
+9394-DDDDD,Female,0,Yes,No,20,Yes,No,46.07,921.4,No
+6655-NNNNN,Male,0,No,Yes,70,Yes,DSL,29.25,2047.5,No
+2816-JJJJJ,Male,0,No,No,66,Yes,Fiber optic,59.94,3956.04,No
+8972-QQQQQ,Male,1,No,No,46,Yes,No,61.89,2846.94,No
+6053-BBBBB,Male,0,No,No,34,Yes,Fiber optic,71.46,2429.64,No
+4612-MMMMM,Female,0,No,Yes,67,Yes,Fiber optic,90.9,6090.3,Yes
+1897-AAAAA,Female,0,Yes,Yes,68,Yes,Fiber optic,110.61,7521.48,Yes
+4349-JJJJJ,Male,0,No,No,0,Yes,No,33.77,0.0,Yes
+4460-YYYYY,Male,0,Yes,No,67,Yes,Fiber optic,25.43,1703.81,No
+3248-YYYYY,Female,1,Yes,No,11,Yes,No,21.85,240.35,No
+5186-JJJJJ,Female,0,Yes,Yes,59,Yes,DSL,34.36,2027.24,No
+6375-DDDDD,Male,0,No,No,26,Yes,No,85.79,2230.54,Yes
+1126-PPPPP,Male,0,No,Yes,55,Yes,DSL,92.75,5101.25,No
+8055-FFFFF,Male,0,Yes,No,22,Yes,No,98.65,2170.3,No
+3116-MMMMM,Female,0,No,No,24,Yes,Fiber optic,44.37,1064.88,No
+9725-WWWWW,Female,0,No,No,20,No,No,50.59,1011.8,No
+4770-QQQQQ,Female,0,No,Yes,60,Yes,Fiber optic,68.31,4098.6,No
+6802-CCCCC,Male,0,No,Yes,62,Yes,DSL,26.32,1631.84,No
+7505-XXXXX,Male,0,Yes,No,51,Yes,No,81.11,4136.61,No
+1693-NNNNN,Female,0,Yes,Yes,24,Yes,Fiber optic,118.37,2840.88,No
+1307-OOOOO,Female,0,No,No,54,Yes,DSL,56.08,3028.32,Yes
+2275-KKKKK,Male,0,Yes,Yes,45,Yes,DSL,95.28,4287.6,Yes
+8033-SSSSS,Female,0,No,Yes,31,No,No,70.0,2170.0,No
+7626-WWWWW,Female,0,No,Yes,54,Yes,DSL,32.78,1770.12,Yes
+7843-JJJJJ,Male,0,Yes,No,4,Yes,Fiber optic,78.22,312.88,No
+2887-MMMMM,Female,0,Yes,Yes,35,Yes,DSL,49.99,1749.65,No
+1341-KKKKK,Male,0,Yes,Yes,48,Yes,DSL,23.44,1125.12,No
+3815-ZZZZZ,Male,0,No,No,57,Yes,Fiber optic,83.49,4758.93,No
+8538-WWWWW,Male,0,Yes,No,38,Yes,DSL,105.89,4023.82,No
+6928-CCCCC,Male,0,No,No,60,Yes,DSL,54.48,3268.8,No
+8155-DDDDD,Male,0,Yes,No,8,Yes,DSL,59.03,472.24,No
+4986-NNNNN,Male,0,Yes,Yes,5,Yes,DSL,109.1,545.5,No
+7560-QQQQQ,Male,0,No,Yes,34,Yes,Fiber optic,101.36,3446.24,Yes
+2288-MMMMM,Female,1,No,Yes,38,Yes,DSL,91.5,3477.0,No
+6083-XXXXX,Male,0,No,Yes,21,Yes,Fiber optic,44.88,942.48,No
+6562-HHHHH,Male,0,No,Yes,40,Yes,DSL,111.02,4440.8,No
+6456-YYYYY,Female,0,No,No,4,Yes,DSL,35.44,141.76,No
+3754-CCCCC,Female,1,No,Yes,41,Yes,DSL,82.68,3389.88,No
+9363-UUUUU,Female,0,No,Yes,66,Yes,DSL,22.88,1510.08,No
+2868-QQQQQ,Male,0,No,Yes,29,Yes,Fiber optic,84.37,2446.73,No
+9355-GGGGG,Female,0,Yes,No,56,Yes,Fiber optic,47.71,2671.76,No
+6724-LLLLL,Male,0,No,No,28,Yes,Fiber optic,64.97,1819.16,No
+3419-HHHHH,Male,0,No,Yes,36,Yes,No,54.53,1963.08,No
+2684-EEEEE,Male,1,Yes,No,12,No,DSL,37.28,447.36,No
+5193-GGGGG,Male,0,No,No,31,Yes,DSL,82.2,2548.2,No
+3842-TTTTT,Female,0,Yes,No,45,Yes,Fiber optic,108.2,4869.0,No
+3504-YYYYY,Female,0,Yes,No,22,Yes,No,115.91,2550.02,No
+2234-FFFFF,Male,0,No,No,44,Yes,DSL,39.23,1726.12,No
+9095-OOOOO,Male,0,Yes,No,16,Yes,Fiber optic,91.74,1467.84,No
+8354-VVVVV,Male,0,No,No,65,Yes,DSL,86.43,5617.95,No
+6295-UUUUU,Female,0,Yes,Yes,5,Yes,DSL,54.34,271.7,Yes
+6179-EEEEE,Male,0,Yes,Yes,17,Yes,Fiber optic,21.91,372.47,No
+8205-CCCCC,Male,0,Yes,No,21,Yes,Fiber optic,88.98,1868.58,No
+8682-OOOOO,Female,0,No,Yes,32,Yes,DSL,114.55,3665.6,No
+5961-ZZZZZ,Female,1,No,Yes,29,Yes,DSL,83.21,2413.09,No
+5500-SSSSS,Male,0,Yes,No,31,Yes,Fiber optic,63.53,1969.43,No
+1920-LLLLL,Female,1,Yes,Yes,41,Yes,DSL,72.52,2973.32,Yes
+9312-CCCCC,Female,0,No,No,9,Yes,DSL,39.96,359.64,No
+6085-OOOOO,Male,0,No,No,35,Yes,Fiber optic,95.05,3326.75,No
+8404-BBBBB,Female,0,Yes,No,33,Yes,DSL,94.64,3123.12,Yes
+1932-LLLLL,Male,0,Yes,Yes,27,Yes,DSL,34.55,932.85,Yes
+5703-CCCCC,Female,0,No,Yes,10,No,No,107.8,1078.0,No
+2479-TTTTT,Male,0,No,Yes,38,Yes,Fiber optic,46.92,1782.96,No
+9307-MMMMM,Male,0,No,Yes,46,Yes,No,118.23,5438.58,No
+8581-SSSSS,Male,0,No,No,18,Yes,No,58.29,1049.22,Yes
+1672-OOOOO,Female,1,No,No,14,Yes,No,37.79,529.06,Yes
+4084-KKKKK,Male,1,Yes,Yes,27,No,DSL,55.17,1489.59,No
+8792-QQQQQ,Female,0,No,No,23,Yes,DSL,64.02,1472.46,No
+3471-BBBBB,Male,0,Yes,No,71,Yes,No,26.93,1912.03,No
+8381-DDDDD,Male,0,No,Yes,8,Yes,No,77.82,622.56,No
+6626-WWWWW,Female,0,Yes,No,46,Yes,No,79.76,3668.96,No
+2381-QQQQQ,Male,0,No,Yes,32,Yes,DSL,93.89,3004.48,No
+3827-BBBBB,Male,0,No,No,61,Yes,No,22.92,1398.12,Yes
+5059-WWWWW,Female,0,Yes,Yes,18,No,No,74.12,1334.16,No
+8172-OOOOO,Male,1,Yes,No,66,Yes,Fiber optic,25.29,1669.14,No
+9586-QQQQQ,Male,0,No,No,39,Yes,Fiber optic,90.11,3514.29,Yes
+3600-LLLLL,Male,0,No,Yes,46,Yes,DSL,25.57,1176.22,Yes
+7108-JJJJJ,Male,0,No,Yes,64,Yes,Fiber optic,111.17,7114.88,Yes
+7347-NNNNN,Female,0,No,Yes,28,No,Fiber optic,90.21,2525.88,No
+6543-VVVVV,Female,0,No,Yes,49,No,Fiber optic,70.74,3466.26,No
+1857-ZZZZZ,Male,1,Yes,No,12,Yes,DSL,64.15,769.8,Yes
+6482-CCCCC,Female,0,Yes,No,0,Yes,Fiber optic,33.07,0.0,No
+6401-DDDDD,Male,1,No,Yes,33,Yes,DSL,49.1,1620.3,Yes
+7333-JJJJJ,Female,0,Yes,No,47,No,No,106.9,5024.3,No
+5128-XXXXX,Male,0,Yes,Yes,47,Yes,Fiber optic,110.45,5191.15,No
+3463-KKKKK,Male,0,Yes,Yes,48,Yes,DSL,20.07,963.36,No
+2335-SSSSS,Male,0,No,No,63,No,Fiber optic,79.41,5002.83,No
+3317-LLLLL,Male,1,Yes,No,60,No,No,91.93,5515.8,No
+6082-UUUUU,Male,1,No,Yes,28,Yes,DSL,81.87,2292.36,No
+7421-EEEEE,Male,0,Yes,Yes,38,Yes,DSL,28.17,1070.46,No
+2388-JJJJJ,Female,0,No,Yes,25,No,DSL,41.77,1044.25,No
+7171-UUUUU,Male,0,Yes,No,16,Yes,No,45.03,720.48,Yes
+6381-EEEEE,Female,1,No,No,70,No,No,103.17,7221.9,Yes
+9624-CCCCC,Male,0,No,No,12,Yes,No,66.32,795.84,No
+7937-QQQQQ,Female,0,Yes,No,68,Yes,DSL,68.68,4670.24,No
+6928-AAAAA,Female,0,No,Yes,25,Yes,No,113.49,2837.25,No
+6940-JJJJJ,Female,0,No,Yes,48,Yes,Fiber optic,83.71,4018.08,No
+3953-GGGGG,Male,0,No,Yes,66,Yes,No,109.87,7251.42,No
+6598-YYYYY,Male,0,No,Yes,6,Yes,DSL,65.65,393.9,No
+8967-GGGGG,Female,1,No,Yes,57,Yes,Fiber optic,34.94,1991.58,No
+4711-EEEEE,Male,0,No,Yes,48,Yes,No,112.99,5423.52,No
+3538-CCCCC,Female,0,No,No,52,Yes,Fiber optic,65.87,3425.24,No
+5846-ZZZZZ,Male,1,No,No,64,Yes,Fiber optic,38.16,2442.24,No
+2657-QQQQQ,Female,0,Yes,Yes,61,Yes,DSL,50.24,3064.64,No
+9843-XXXXX,Female,1,Yes,Yes,16,Yes,Fiber optic,25.08,401.28,No
+9626-BBBBB,Male,0,No,No,42,Yes,Fiber optic,66.83,2806.86,No
+6517-YYYYY,Female,0,No,No,24,Yes,DSL,105.31,2527.44,Yes
+3147-TTTTT,Male,1,Yes,No,2,Yes,DSL,113.36,226.72,Yes
+7172-EEEEE,Female,0,Yes,No,28,Yes,DSL,113.26,3171.28,No
+3658-FFFFF,Female,0,Yes,Yes,31,No,Fiber optic,32.52,1008.12,No
+3712-XXXXX,Male,0,No,Yes,25,Yes,Fiber optic,58.21,1455.25,No
+8170-BBBBB,Male,0,Yes,Yes,15,Yes,Fiber optic,22.82,342.3,No
+7731-LLLLL,Male,0,No,Yes,24,No,DSL,105.52,2532.48,No
+4891-OOOOO,Female,0,No,Yes,53,Yes,No,55.88,2961.64,No
+5668-YYYYY,Male,1,Yes,No,27,Yes,Fiber optic,83.11,2243.97,Yes
+8355-HHHHH,Female,0,No,Yes,55,Yes,No,91.49,5031.95,No
+9749-HHHHH,Female,0,No,No,64,Yes,DSL,62.98,4030.72,No
+6070-ZZZZZ,Male,0,No,Yes,40,Yes,Fiber optic,50.64,2025.6,Yes
+8684-GGGGG,Male,0,No,Yes,50,Yes,No,116.22,5811.0,No
+7026-VVVVV,Female,0,Yes,Yes,70,Yes,Fiber optic,116.45,8151.5,No
+8218-OOOOO,Female,1,Yes,Yes,28,Yes,Fiber optic,48.94,1370.32,No
+5616-YYYYY,Male,0,No,Yes,18,Yes,Fiber optic,67.96,1223.28,No
+7256-QQQQQ,Male,0,No,No,65,Yes,No,117.28,7623.2,No
+9641-NNNNN,Male,0,Yes,No,40,Yes,DSL,20.49,819.6,No
+3655-GGGGG,Male,0,No,No,44,Yes,Fiber optic,61.27,2695.88,No
+3267-IIIII,Male,0,Yes,Yes,14,Yes,DSL,30.05,420.7,No
+1854-UUUUU,Female,0,No,Yes,2,Yes,DSL,70.92,141.84,No
+8873-LLLLL,Female,0,No,No,10,Yes,No,22.47,224.7,No
+2680-WWWWW,Female,0,Yes,Yes,52,Yes,No,60.69,3155.88,Yes
+9452-DDDDD,Female,0,Yes,Yes,45,Yes,DSL,42.07,1893.15,Yes
+5670-CCCCC,Male,0,Yes,No,29,Yes,Fiber optic,73.33,2126.57,No
+3626-IIIII,Male,0,Yes,Yes,56,Yes,No,119.6,6697.6,Yes
+8361-QQQQQ,Male,0,No,No,17,Yes,Fiber optic,100.05,1700.85,No
+3414-NNNNN,Female,0,Yes,Yes,50,Yes,Fiber optic,104.56,5228.0,No
+2502-HHHHH,Female,0,No,No,47,Yes,Fiber optic,83.53,3925.91,No
+8391-LLLLL,Male,0,Yes,Yes,65,Yes,DSL,24.16,1570.4,No
+1436-NNNNN,Male,0,Yes,Yes,7,Yes,Fiber optic,40.68,284.76,No
+1872-MMMMM,Female,0,No,No,21,Yes,DSL,112.51,2362.71,No
+9224-LLLLL,Female,1,Yes,Yes,5,Yes,DSL,56.61,283.05,Yes
+4862-MMMMM,Male,0,Yes,Yes,56,Yes,Fiber optic,30.36,1700.16,Yes
+2337-LLLLL,Male,0,Yes,No,35,Yes,Fiber optic,90.24,3158.4,No
+4678-AAAAA,Female,1,Yes,Yes,56,Yes,Fiber optic,49.95,2797.2,No
+6221-DDDDD,Male,0,No,No,48,Yes,Fiber optic,46.89,2250.72,Yes
+6493-ZZZZZ,Male,0,No,Yes,44,Yes,DSL,119.8,5271.2,No
+3392-EEEEE,Male,0,Yes,Yes,65,Yes,Fiber optic,105.81,6877.65,No
+1627-JJJJJ,Female,0,Yes,Yes,44,Yes,Fiber optic,60.79,2674.76,No
+8740-WWWWW,Female,0,Yes,Yes,19,Yes,DSL,118.03,2242.57,Yes
+3273-YYYYY,Female,1,No,No,63,Yes,No,85.01,5355.63,No
+8685-OOOOO,Female,0,No,Yes,66,Yes,No,94.2,6217.2,Yes
+1086-CCCCC,Female,0,No,No,2,Yes,DSL,23.15,46.3,No
+1311-IIIII,Female,0,No,Yes,53,Yes,No,32.16,1704.48,No
+4533-EEEEE,Female,1,Yes,Yes,63,Yes,DSL,83.31,5248.53,No
+9991-XXXXX,Male,0,Yes,Yes,39,Yes,Fiber optic,109.9,4286.1,No
+9647-NNNNN,Male,0,Yes,Yes,58,Yes,Fiber optic,82.37,4777.46,No
+2821-YYYYY,Male,0,No,No,54,Yes,No,33.4,1803.6,No
+5720-HHHHH,Male,0,Yes,No,61,Yes,Fiber optic,31.58,1926.38,No
+5934-DDDDD,Male,1,No,No,3,Yes,No,104.42,313.26,No
+1782-HHHHH,Male,1,No,No,59,Yes,No,33.93,2001.87,No
+7878-UUUUU,Male,0,Yes,Yes,29,No,Fiber optic,72.02,2088.58,No
+8489-CCCCC,Female,1,Yes,No,1,Yes,Fiber optic,23.71,23.71,No
+2816-PPPPP,Female,0,Yes,No,61,Yes,No,28.07,1712.27,No
+9782-AAAAA,Male,1,No,Yes,48,Yes,Fiber optic,87.23,4187.04,No
+9443-SSSSS,Male,0,No,Yes,8,Yes,DSL,88.92,711.36,No
+4963-WWWWW,Female,0,Yes,Yes,30,Yes,Fiber optic,54.15,1624.5,No
+3352-JJJJJ,Male,0,Yes,Yes,60,No,Fiber optic,41.56,2493.6,No
+8032-AAAAA,Male,0,No,No,47,Yes,DSL,101.37,4764.39,Yes
+6780-HHHHH,Female,0,Yes,No,24,Yes,Fiber optic,41.71,1001.04,Yes
+7825-FFFFF,Male,0,No,Yes,35,Yes,Fiber optic,74.2,2597.0,No
+2402-QQQQQ,Female,0,No,Yes,7,Yes,No,116.82,817.74,No
+6908-CCCCC,Male,0,Yes,Yes,57,Yes,Fiber optic,34.79,1983.03,No
+9618-RRRRR,Female,0,Yes,No,44,Yes,Fiber optic,114.09,5019.96,No
+9312-ZZZZZ,Female,0,Yes,No,61,No,DSL,38.29,2335.69,Yes
+9316-RRRRR,Female,1,Yes,Yes,38,Yes,No,76.74,2916.12,No
+1333-MMMMM,Male,0,No,Yes,57,Yes,No,57.7,3288.9,No
+8702-BBBBB,Female,0,No,No,63,Yes,No,116.49,7338.87,Yes
+7338-LLLLL,Male,0,No,Yes,43,Yes,Fiber optic,47.35,2036.05,No
+5155-XXXXX,Male,1,Yes,Yes,28,Yes,No,59.97,1679.16,No
+1266-LLLLL,Male,0,No,No,58,Yes,DSL,118.29,6860.82,No
+2106-LLLLL,Male,0,Yes,Yes,70,Yes,No,73.65,5155.5,No
+4950-XXXXX,Female,0,Yes,No,8,Yes,DSL,70.26,562.08,No
+2698-YYYYY,Female,1,Yes,Yes,5,Yes,No,45.78,228.9,No
+6447-EEEEE,Male,0,Yes,Yes,28,Yes,No,90.14,2523.92,No
+1726-LLLLL,Male,0,Yes,No,57,Yes,DSL,21.44,1222.08,Yes
+9945-KKKKK,Female,0,Yes,No,16,Yes,No,24.95,399.2,No
+3868-YYYYY,Male,1,No,Yes,15,Yes,No,79.94,1199.1,No
+8612-WWWWW,Female,0,Yes,No,2,Yes,No,54.17,108.34,No
+8840-UUUUU,Male,0,No,Yes,20,Yes,Fiber optic,115.33,2306.6,No
+3986-ZZZZZ,Male,1,No,Yes,63,Yes,DSL,110.32,6950.16,No
+3209-CCCCC,Female,0,Yes,No,35,Yes,No,91.37,3197.95,No
+8498-BBBBB,Male,0,Yes,Yes,61,Yes,DSL,101.81,6210.41,Yes
+5807-GGGGG,Female,0,Yes,Yes,41,No,DSL,86.73,3555.93,No
+1717-ZZZZZ,Male,0,No,No,41,Yes,DSL,32.56,1334.96,No
+4268-BBBBB,Male,0,Yes,No,60,Yes,No,96.55,5793.0,No
+6170-JJJJJ,Male,0,No,Yes,12,Yes,No,41.02,492.24,No
+9444-MMMMM,Female,0,Yes,No,10,Yes,DSL,52.34,523.4,No
+9897-PPPPP,Male,0,Yes,No,53,Yes,Fiber optic,101.92,5401.76,Yes
+5150-BBBBB,Male,1,No,No,15,Yes,DSL,73.65,1104.75,No
+4131-JJJJJ,Male,0,No,No,7,Yes,Fiber optic,105.99,741.93,No
+6848-YYYYY,Male,1,Yes,Yes,58,Yes,DSL,41.3,2395.4,No
+1783-UUUUU,Female,0,No,Yes,56,No,DSL,80.78,4523.68,No
+6438-IIIII,Female,1,No,Yes,39,Yes,DSL,28.38,1106.82,No
+3039-ZZZZZ,Male,0,No,No,58,Yes,No,84.31,4889.98,No
+7029-NNNNN,Female,0,No,No,1,Yes,Fiber optic,96.25,96.25,No
+7553-XXXXX,Male,0,No,No,9,Yes,Fiber optic,78.49,706.41,Yes
+8204-MMMMM,Male,1,Yes,No,43,Yes,DSL,46.62,2004.66,No
+6554-FFFFF,Male,0,Yes,No,10,Yes,No,23.13,231.3,Yes
+9129-WWWWW,Female,0,No,No,1,Yes,No,31.94,31.94,Yes
+9151-LLLLL,Female,0,Yes,No,49,Yes,Fiber optic,82.23,4029.27,Yes
+9507-IIIII,Female,0,Yes,Yes,11,Yes,No,113.44,1247.84,No
+2353-XXXXX,Female,0,No,Yes,22,Yes,Fiber optic,40.65,894.3,No
+7955-CCCCC,Female,0,Yes,No,17,Yes,Fiber optic,93.5,1589.5,Yes
+8055-TTTTT,Female,0,No,No,61,Yes,Fiber optic,106.65,6505.65,Yes
+3956-RRRRR,Female,0,No,No,61,Yes,No,72.09,4397.49,No
+5813-KKKKK,Female,0,Yes,Yes,37,Yes,Fiber optic,86.93,3216.41,Yes
+2680-CCCCC,Female,0,No,Yes,66,Yes,Fiber optic,101.5,6699.0,No
+6372-VVVVV,Male,0,No,No,37,Yes,DSL,46.07,1704.59,Yes
+5843-JJJJJ,Female,0,No,No,66,Yes,Fiber optic,49.69,3279.54,No
+8305-TTTTT,Female,0,No,Yes,60,Yes,Fiber optic,20.06,1203.6,No
+7981-FFFFF,Female,0,No,Yes,0,Yes,DSL,116.31,0.0,No
+8272-LLLLL,Female,0,Yes,Yes,44,Yes,DSL,111.75,4917.0,No
+8325-BBBBB,Female,0,Yes,Yes,27,Yes,No,96.46,2604.42,No
+6776-TTTTT,Female,0,No,No,20,Yes,Fiber optic,27.91,558.2,Yes
+8126-IIIII,Female,0,No,Yes,12,Yes,No,64.75,777.0,No
+1939-CCCCC,Female,0,Yes,Yes,26,Yes,No,30.19,784.94,No
+7655-LLLLL,Female,0,No,No,6,Yes,DSL,21.59,129.54,Yes
+9406-ZZZZZ,Female,0,Yes,Yes,21,No,No,81.62,1714.02,Yes
+3621-AAAAA,Female,0,No,Yes,52,Yes,Fiber optic,116.08,6036.16,No
+3339-TTTTT,Male,0,No,Yes,3,Yes,DSL,110.29,330.87,Yes
+8179-BBBBB,Male,0,No,No,22,Yes,Fiber optic,89.68,1972.96,No
+3068-CCCCC,Female,0,No,Yes,69,Yes,Fiber optic,29.66,2046.54,No
+4866-YYYYY,Female,0,No,No,32,Yes,DSL,47.42,1517.44,No
+7001-LLLLL,Male,1,No,No,27,Yes,Fiber optic,52.01,1404.27,No
